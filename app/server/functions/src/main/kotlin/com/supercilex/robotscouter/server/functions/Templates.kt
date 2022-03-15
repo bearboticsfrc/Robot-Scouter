@@ -47,50 +47,57 @@ import kotlin.js.json
  * 1. Minimize deletions at all costs since that makes data analysis harder
  */
 fun matchTemplateMetrics() = metrics {
-    header("a", "Scout info")
+    header("a", "SCOUT")
     text("b", "Name")
+    text("c", "Match")
+    
+    header("d", "AUTONOMOUS")
+    checkbox("e", "Successfully Taxied out of Tarmac")
+    counter("f", "Upper Hub Attempts")
+    counter("g", "Upper Hub Shots Made")
+    counter("h", "Lower Hub Attempts")
+    counter("i", "Lower Hub Shots Made")
 
-    header("c", "Sandstorm")
-    selector("d", "Starting location") {
-        +Item("a", "HAB Level 1")
-        +Item("b", "HAB Level 2")
-        +Item("c", "Unknown", true)
-    }
-    checkbox("e", "Successfully crossed HAB line")
-    counter("f", "Panels on Cargo Ship")
-    counter("g", "Panels on low Rocket Hatches")
-    counter("h", "Panels on middle/high Rocket Hatches")
-    counter("i", "Cargo in Cargo Ship")
-    counter("j", "Cargo in low Rocket Bays")
-    counter("k", "Cargo in middle/high Rocket Bays")
+    header("j", "TELEOP")
+    counter("k", "Upper Hub Attempts")
+    counter("l", "Upper Hub Shots Made")
+    counter("m", "Lower Hub Attempts")
+    counter("n", "Lower Hub Shots Made")
 
-    header("l", "Teleop")
-    counter("m", "Panels on Cargo Ship")
-    counter("n", "Panels on low Rocket Hatches")
-    counter("o", "Panels on middle/high Rocket Hatches")
-    counter("p", "Cargo in Cargo Ship")
-    counter("q", "Cargo in low Rocket Bays")
-    counter("r", "Cargo in middle/high Rocket Bays")
-    stopwatch("s", "Panel delivery cycle time")
-    stopwatch("t", "Cargo delivery cycle time")
-    selector("u", "Endgame location") {
-        +Item("a", "HAB Level 1")
-        +Item("b", "HAB Level 2")
-        +Item("c", "HAB Level 3")
-        +Item("d", "Not on HAB", true)
-    }
+    stopwatch("o", "Cargo shots cycle time (Just Emptied-to-Empty")
+    
+    selector("p", "Did they play defense?"") {    
+        +Item("a", "1-None demonstrated")
+        +Item("b", "2-Tried, but incurred penalties")
+        +Item("c", "3-Okay")
+        +Item("d", "4-Better than Average")
+        +Item("e", "5-Did Great!")
+        +Item("f", "Unknown", true)
+    text("q", "Defense Comments")       
+    
+    stopwatch("r", "Time to Hang (Start as enter Hangar)")
+    selector("s", "Which rung did they end the game?"") {    
+        +Item("a", "None")
+        +Item("b", "Low")
+        +Item("c", "Mid")
+        +Item("d", "High")
+        +Item("e", "Traversal")
+        +Item("f", "Unknown", true)
 
-    header("v", "Post-game")
-    checkbox("w", "Robot broke")
-    text("x", "Other")
+    header("t", "POST-GAME")
+    
+    checkbox("u", "Incurred penalties")    
+    checkbox("v", "Robot broke")
+    checkbox("w", "They had a pattern to their play.")    
+    text("x", "Additional Comments")
 }
 
 /** @see [matchTemplateMetrics] */
 fun pitTemplateMetrics() = metrics {
-    header("a", "Scout info")
+    header("a", "SCOUT")
     text("b", "Name")
 
-    header("c", "Hardware")
+    header("c", "HARDWARE")
     selector("d", "What's their drivetrain?") {
         +Item("a", "Standard 6/8 wheel")
         +Item("b", "Swerve")
@@ -98,83 +105,54 @@ fun pitTemplateMetrics() = metrics {
         +Item("d", "Other")
         +Item("e", "Unknown", true)
     }
-    text("e", "If other, please specify")
-    checkbox("f", "Do they have a Hatch Panel ground intake?")
-    checkbox("g", "Do they have a Cargo ground intake?")
-
-    header("h", "Sandstorm Strategy")
-    selector("i", "Where does their robot start from?") {
-        +Item("a", "HAB Level 1")
-        +Item("b", "HAB Level 2")
-        +Item("c", "Unknown", true)
-    }
-    selector("j", "How does their robot move during the Sandstorm?") {
-        +Item("a", "Autonomous code")
-        +Item("b", "Driver control")
-        +Item("c", "Hybrid")
-        +Item("d", "No movement")
+    selector("e", "How fast are they?") {
+        +Item("a", "Slow")
+        +Item("b", "Average")
+        +Item("c", "Fast")
+        +Item("d", "Other")
         +Item("e", "Unknown", true)
     }
-    selector("k", "Where can they place Hatch Panels during the Sandstorm?") {
-        +Item("a", "Nowhere")
-        +Item("b", "Cargo Ship only")
-        +Item("c", "Cargo Ship and low Rocket Hatches")
-        +Item("d", "Cargo Ship and low/middle Rocket Hatches")
-        +Item("e", "Anywhere")
+    text("f", "If other, please specify")
+    checkbox("g", "Do they have a Cargo ground intake?")
+    checkbox("h", "Do they have a Cargo Terminal intake?")
+
+    header("i", "AUTONOMOUS STRATEGY")
+    selector("j", "What is their primary working autonomous?")
+        +Item("a", "No movement")
+        +Item("b", "Taxi only")
+        +Item("c", "Shoot preloaded cargo only")
+        +Item("d", "Combination of Shoot, Taxi + Intake (2 balls max)")
+        +Item("e", "Combination of Shoot, Taxi + Intake (2+ balls)")       
         +Item("f", "Other")
         +Item("g", "Unknown", true)
     }
-    text("l", "If other, please specify")
-    selector("m", "Where can they place Cargo during the Sandstorm?") {
-        +Item("a", "Nowhere")
-        +Item("b", "Cargo Ship only")
-        +Item("c", "Cargo Ship and low Rocket Hatches")
-        +Item("d", "Cargo Ship and low/middle Rocket Hatches")
-        +Item("e", "Anywhere")
-        +Item("f", "Other")
-        +Item("g", "Unknown", true)
+    text("k", "If other, please specify")
+
+    header("l", "TELEOP STRATEGY")
+    selector("m", "Where can they put Cargo during Teleop?") {
+        +Item("a", "Lower Hub only")
+        +Item("b", "Upper Hub only")
+        +Item("c", "Anywhere")
+        +Item("d", "Other")
+        +Item("e", "Unknown", true)
     }
     text("n", "If other, please specify")
 
-    header("o", "Teleop Strategy")
-    selector("p", "Where can they place Hatch Panels during Teleop?") {
-        +Item("a", "Nowhere")
-        +Item("b", "Cargo Ship only")
-        +Item("c", "Cargo Ship and low Rocket Hatches")
-        +Item("d", "Cargo Ship and low/middle Rocket Hatches")
-        +Item("e", "Anywhere")
-        +Item("f", "Other")
-        +Item("g", "Unknown", true)
+    selector("o", "Which is the highest rung their robot can end the game?") {
+        +Item("a", "None")
+        +Item("b", "Low")
+        +Item("c", "Mid")
+        +Item("d", "High")
+        +Item("e", "Traversal")
+        +Item("f", "Unknown", true)
     }
-    text("q", "If other, please specify")
-    selector("r", "Where do they place Cargo during Teleop?") {
-        +Item("a", "Nowhere")
-        +Item("b", "Cargo Ship only")
-        +Item("c", "Cargo Ship and low Rocket Hatches")
-        +Item("d", "Cargo Ship and low/middle Rocket Hatches")
-        +Item("e", "Anywhere")
-        +Item("f", "Other")
-        +Item("g", "Unknown", true)
-    }
-    text("s", "If other, please specify")
-    selector("t", "Where does their robot end the game?") {
-        +Item("a", "Off the HAB Platform")
-        +Item("b", "Only HAB Level 1")
-        +Item("c", "Only HAB Level 2")
-        +Item("d", "Only HAB Level 3")
-        +Item("e", "HAB Level 1 or 2")
-        +Item("f", "HAB Level 1 or 3")
-        +Item("g", "Any HAB Level")
-        +Item("h", "Unknown", true)
-    }
-    checkbox("u", "Can they help another robot climb?")
 
-    header("v", "Other")
-    counter("w", "Subjective quality assessment (?/5)") {
+    header("p", "OTHER")
+    counter("q", "Subjective quality assessment (?/5)") {
         unit = "⭐"
     }
-    text("x", "What is something special you want us to know about your robot?")
-    text("y", "Other comments")
+    text("r", "What is something special you want us to know about your robot?")
+    text("s", "Other comments")
 }
 
 fun updateDefaultTemplates(): Promise<*>? {
