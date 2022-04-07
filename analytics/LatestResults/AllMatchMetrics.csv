@@ -1,0 +1,435 @@
+Team,Timestamp,Name,Match,Upper Attempts,Upper % Made,AUTO Upper Attempts,AUTO Upper Made,TELEOP Upper Attempts,TELEOP Upper Made,Lower Attempts,Lower % Made,AUTO Lower Attempts,AUTO Lower Made,TELEOP Lower Attempts,TELEOP Lower Made,TELEOP Cargo Shooting Comments,AUTO Taxied,END GAME Climb Rung,TELEOP Speed Rating,DEFENSE Rating,DEFENSE Comments,PENALTIES Incurred,PENALTIES Comments,RELIABILITY Robot Broke,RELIABILITY Robot Stalled,RELIABILITY Comments,Additional Comments
+1011,03-25-2022,,Q3,0,,0,0,0,0,0,,0,0,0,0,No shots,False,None,,0,No. Way too slow,False,,False,False,,Was not there. Very slow. Barely functional
+1011,03-25-2022,,Q13,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,,0,,False,,False,False,Started moving very slowly after a bit,
+1011,03-25-2022,,Q19,0,,0,0,0,0,0,,0,0,0,0,,False,None,,1,On us! Did ok,False,,False,False,,
+1011,03-25-2022,,Q28,12,91.7,2,2,10,9,0,,0,0,0,0,,True,Mid,,0,,False,,False,False,,
+1011,03-25-2022,,Q28,0,,0,0,0,0,0,,0,0,0,0,,True,None,,0,,False,,False,True,Kept stopping for long periods of time,
+1011,03-25-2022,,Q36,0,,0,0,0,0,1,0.0,0,0,1,0,Only shot the preloaded ball,False,None,,0,,False,,False,False,,
+1011,03-25-2022,,Den Q46,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,,0,,False,,True,True,,
+1011,03-25-2022,,Q51,2,0.0,0,0,2,0,0,,0,0,0,0,,False,None,,1,Randomly,False,,False,False,,
+1011,03-26-2022,,Q69,0,,0,0,0,0,4,75.0,2,1,2,2,,True,None,,0,,False,,False,False,Balls cam fall out when going across the map.,Its fast and can shoot lower hub.
+1245,03-25-2022,,Q1,10,20.0,1,0,9,2,0,,0,0,0,0,,True,None,,0,,False,,False,False,,
+1245,03-25-2022,,Q8,1,0.0,1,0,0,0,0,,0,0,0,0,Appear to have intake & shooting issues,True,Mid,,1,Blocked some robots from shooting with balls in intake but not shooting ,False,,False,False,,
+1245,03-25-2022,,Qr 27,6,0.0,0,0,6,0,1,0.0,1,0,0,0,,True,Low,,0,,False,,False,False,,"I took red balls easy, the keep it touch it roll applies too much."
+1245,03-25-2022,,Q32,0,,0,0,0,0,2,100.0,1,2,1,0,,True,Mid,,0,,False,,False,False,,
+1245,03-25-2022,,Q41,0,,0,0,0,0,6,83.3,0,0,6,5,,True,Mid,,0,,False,,False,False,,
+1245,03-25-2022,,Qr.45,0,inf,0,1,0,0,5,40.0,2,2,3,0,,True,Mid,,0,,False,,False,False,,
+1245,03-25-2022,,Den Q49,0,,0,0,0,0,4,75.0,1,1,3,2,,True,None,,0,,False,,False,False,,
+1245,03-25-2022,,Q55,0,,0,0,0,0,9,66.7,2,2,7,4,,True,Low,,0,,False,,False,False,,
+1303,03-25-2022,,Qr.1,0,,0,0,0,0,0,,0,0,0,0,,False,Unknown,,0,,False,,False,False,,"Moved really slow,never stopped but didn't do anything"
+1303,03-25-2022,,Den Q9,0,,0,0,0,0,0,,0,0,0,0,,True,None,,1,They weren't very effective ,False,,False,False,,"Did not shoot, did not intake"
+1303,03-25-2022,,Q9,0,,0,0,0,0,0,,0,0,0,0,,True,None,,1,"Not great, very slow moving",False,,False,False,,
+1303,03-25-2022,,Den Q15,0,,0,0,0,0,0,,0,0,0,0,Did not do anything,False,Unknown,,1,Slowly would try to pin robots. ,False,,False,False,Does not shoot or intake,May have a broken mechanism.
+1303,03-25-2022,,Q27,0,,0,0,0,0,0,,0,0,0,0,,True,None,,0,,False,,False,True,Stopped moving but didn't break down,
+1303,03-25-2022,,Den Q33,0,,0,0,0,0,1,0.0,0,0,1,0,Spit out cargo but did not move at all,False,None,,0,,False,,True,True,,Did not preform at all
+1303,03-25-2022,,Q39,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,,0,Appeared to play slight defense (blocked a robot for a bit),False,,False,False,,Just drove around really slowly
+1303,03-25-2022,,Q46,0,,0,0,0,0,0,,0,0,0,0,,False,None,,0,,False,,False,False,,
+1303,03-25-2022,,Q50,0,,0,0,0,0,1,0.0,1,0,0,0,,False,Unknown,,0,,False,,False,False,,"Dis nothing but drive around really slow, after spitting out preload during auto"
+1332,03-25-2022,,Q5,0,,0,0,0,0,11,100.0,1,1,10,10,Shoots against hub,True,None,,0,,False,,False,False,,Attempted Mid bar but not enough time
+1332,03-25-2022,,Q13,0,,0,0,0,0,8,62.5,1,1,7,4,Have trouble picking up balls,True,None,,0,,False,,False,False,,Started hang too late. Didn't get off the ground
+1332,03-25-2022,,Q18,0,,0,0,0,0,11,100.0,1,1,10,10,,True,Unknown,,0,,False,,False,False,,
+1332,03-25-2022,,Den Q26,0,,0,0,0,0,5,100.0,1,1,4,4,,True,None,,1,Good with pinning.,False,,False,False,,
+1332,03-25-2022,,Q34,0,,0,0,0,0,2,100.0,0,0,2,2,,True,None,,0,,False,,False,False,,
+1332,03-25-2022,,Den Q44,0,,0,0,0,0,11,81.8,1,1,10,8,,True,Unknown,,0,,False,,False,False,,
+1332,03-25-2022,,Q54,0,,0,0,0,0,7,100.0,0,0,7,7,,True,Mid,,0,,False,,False,False,,
+1332,03-25-2022,,Q58,0,,0,0,0,0,7,85.7,1,1,6,5,Dropped some balls after they picked them up,True,None,,0,,False,,False,False,,
+1332,03-26-2022,,Q68,0,,0,0,0,0,3,100.0,0,0,3,3,,True,None,,0,,False,,False,False,,
+1332,03-26-2022,,Q74,0,,0,0,0,0,6,83.3,0,0,6,5,,True,Unknown,,0,,False,,False,False,,
+1339,03-17-2022,JB,2022caoc-f2,11,81.8,4,3,7,6,0,,0,0,0,0,Shoots at the base of the hub only,True,Traversal ,Average ,3,In the mid game they chased and checked an opponent to defend. Almost tipped themselves over going too fast over the cable cover.,True,Defense ,False,False,,
+1339,03-17-2022,JB,2022caoc-f1,15,93.3,3,3,12,11,0,,0,0,0,0,,True,Traversal ,Average ,1,,False,,False,False,,
+1339,03-17-2022,JB,2022caoc-sf2-2,14,71.4,4,3,10,7,0,,0,0,0,0,Only shoot at the base of the hub at the fenders.,True,High,Average ,1,,False,,False,False,,Had trouble lining up on climb and only made it to the high bar.
+1339,03-25-2022,JB,Qr.,18,0.0,4,0,14,0,0,,0,0,0,0,,True,Traversal,Average ,0,,False,,False,False,,
+1339,03-25-2022,JB,Qr.,0,,0,0,0,0,0,,0,0,0,0,,False,Unknown,Average ,0,,False,,False,False,,
+1339,03-25-2022,JB,Q15,17,100.0,4,4,13,13,0,,0,0,0,0,Very consistent shooting. Needs to shoot from up against hub. ,True,Traversal,Average ,0,,False,,False,False,,
+1339,03-25-2022,JB,Q23,20,95.0,4,3,16,16,0,,0,0,0,0,,True,Traversal,Average ,0,,False,,False,False,,Smooth control and fast cycle time. 
+1339,03-25-2022,JB,Q31,19,89.5,4,4,15,13,0,,0,0,0,0,Shoots right against hub,True,High,Average ,0,,False,,False,False,,4550 played strong defense against them and still fast cycles
+1339,03-25-2022,JB,Q36,19,94.7,4,4,15,14,0,,0,0,0,0,,True,Traversal,Average ,0,,False,,False,False,,
+1339,03-25-2022,JB,Qr.49,18,94.4,4,3,14,14,0,,0,0,0,0,,True,Traversal,Average ,0,,False,,False,False,,Options for climbing (can go high on the traversal)
+1339,03-26-2022,JB,Q62,13,100.0,4,4,9,9,0,,0,0,0,0,,True,None,Average ,0,,True,Holding 3 balls,False,False,,Fell of high bar. Bent climber arm. 
+1339,03-26-2022,JB,Q72,19,78.9,4,2,15,13,0,,0,0,0,0,,True,None,Average ,0,,False,,False,False,,"Blocked out of hangar, kept shooting"
+1410,03-19-2022,CP,azfl q42,0,,0,0,0,0,1,100.0,1,1,0,0,,True,Unknown ,Fast,5,"Pushed bots around, prevented them from shooting.",False,,False,False,,Very defensive towards the end of Arizona North
+1410,03-25-2022,CP,Den Q5,0,,0,0,0,0,3,100.0,2,2,1,1,,True,High,Fast,0,,False,,True,True,"Good shooters, pretty good climb speed.",Seemed to stop intake during teleop. Drove to hanger and seemed to shut down. Still managed to climb.
+1410,03-25-2022,CP,Q10,0,,0,0,0,0,4,100.0,0,0,4,4,,False,Traversal,Fast,0,,False,,False,False,,
+1410,03-25-2022,CP,Q16,0,,0,0,0,0,7,100.0,2,2,5,5,,True,Traversal,Fast,1,Stopped shooting at 1min to do defense. Did well,False,,False,False,,Started hang at 35sec
+1410,03-25-2022,CP,Q22,0,,0,0,0,0,12,100.0,2,2,10,10,,True,None,Fast,0,,True,Maybe while in the hangar?,False,False,,
+1410,03-25-2022,CP,Q41,0,,0,0,0,0,11,72.7,2,2,9,6,,True,High,Fast,0,,False,,False,False,,Missed traversal with 1 hook
+1410,03-25-2022,CP,Den Q45,0,,0,0,0,0,1,100.0,1,1,0,0,,True,High,Fast,1,Pinned others multiple times,False,,False,False,,
+1410,03-25-2022,CP,Q53,0,,0,0,0,0,5,100.0,0,0,5,5,,True,None,Fast,0,,False,,False,False,,
+1410,03-26-2022,CP,Q71,0,,0,0,0,0,7,100.0,1,1,6,6,Fast intake and can shoot lower hub incredibly well.,True,Traversal,Fast,0,,False,,False,False,,Goes into bar earlier but gets to the traversal level really quick.
+159,03-24-2022,MM, Den Q1,0,,0,0,0,0,1,0.0,1,0,0,0,,True,Mid,Average ,3,Not always efficient,False,,False,False,,Didnt really try to score or collect a lot of cargo. Mainly played defence.
+159,03-25-2022,MM,Q8,2,50.0,1,1,1,0,1,0.0,0,0,1,0,,True,Mid,Average ,0,,False,,False,False,,
+159,03-25-2022,MM,Q16,7,0.0,2,0,5,0,0,,0,0,0,0,Shooter goes long every time,True,High,Average ,0,,False,,False,False,,"Hanging is slow, but traverse capable"
+159,03-25-2022,MM,Q21,5,60.0,1,0,4,3,0,,0,0,0,0,Picked up a wrong color ball. Took a bit to get rid of it. ,True,None,Average ,0,,False,,False,False,,"Hang at 45sec. Made it to the traversal bar, but it didn't count. Not sure why. "
+159,03-25-2022,MM,Q30,1,0.0,1,0,0,0,0,,0,0,0,0,,True,Traversal,Average ,0,,False,,False,False,,
+159,03-25-2022,MM,Q37,2,100.0,0,0,2,2,0,,0,0,0,0,,True,Unknown,Average ,0,,False,,False,False,,
+159,03-25-2022,MM,Q48,10,20.0,1,0,9,2,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,
+159,03-25-2022,MM,Q52,5,40.0,2,2,3,0,0,,0,0,0,0,,True,Traversal,Average ,0,,False,,False,False,,
+159,03-25-2022,MM,Q57,5,40.0,2,1,3,1,0,,0,0,0,0,,True,Traversal,Average ,0,,False,,False,False,,Started hang with 70sec left
+159,03-26-2022,MM,Q68,4,0.0,0,0,4,0,0,,0,0,0,0,,True,Traversal,Average ,0,,False,,False,False,,Hang at 45sec
+159,03-26-2022,MM,Q72,6,0.0,2,0,4,0,0,,0,0,0,0,Slow intake. Inaccurate shooter ,True,Traversal,Average ,0,,False,,False,False,,"Traversal climb good, not great shooter"
+1619,03-15-2022,CP-NG,okok f2,9,66.7,2,1,7,5,0,,0,0,0,0,No,True,Traversal ,Fast,3,,False,,False,False,Reliable,Dropped 1 ball
+1619,03-15-2022,JB-NG-CP,okok f1,14,64.3,4,1,10,8,0,,0,0,0,0,Only shooting from their launchpad.,True,Traversal ,Fast,1,,False,,False,False,Reliable ,
+1619,03-15-2022,JB-NG-CP,2022okok-F1,15,60.0,5,1,10,8,0,,0,0,0,0,,True,Unknown ,Unknown,1,,False,,False,False,,
+1619,03-16-2022,MN,okok sf1-2,16,68.8,4,3,12,8,0,,0,0,0,0,"Yes, at their launch pad since they had defenders.",True,Traversal ,Fast,1,,False,,False,False,"Shooting power is good, accuracy is not. ",Defended by other team. 
+1619,03-16-2022,JB,okok sf1-1,17,76.5,4,3,13,10,0,,0,0,0,0,,True,Traversal ,Average ,1,,False,,False,False,,
+1619,03-23-2022,CM,okok sf1-1,0,,0,0,0,0,0,,0,0,0,0,,False,Unknown ,Unknown,1,,False,,False,False,,
+1619,03-24-2022,CM,"Prac 3, ",16,56.2,2,0,14,9,0,,0,0,0,0,Touching hanger,True,Traversal ,Unknown,1,,False,,False,False,,
+1619,03-25-2022,CM,Q7,26,88.5,3,2,23,21,0,,0,0,0,0,,True,Traversal,Unknown,0,,False,,False,False,,
+1619,03-25-2022,CM,Q14,20,70.0,3,1,17,13,0,,0,0,0,0,Shooting improved as match went on,True,Traversal,Unknown,0,,False,,False,False,,
+1619,03-25-2022,CM,Q19,25,92.0,5,5,20,18,0,,0,0,0,0,,True,Traversal,Unknown,0,,False,,False,False,,
+1619,03-25-2022,CM,Q25,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1619,03-25-2022,CM,Q25,10,80.0,3,3,7,5,0,,0,0,0,0,,True,Traversal,Unknown,0,,False,,False,False,,Ball count might be higher
+1619,03-25-2022,CM,Q38,18,94.4,4,4,14,13,0,,0,0,0,0,,True,Traversal,Unknown,0,,False,,False,False,,
+1619,03-25-2022,CM,Q44,22,86.4,4,4,18,15,0,,0,0,0,0,,True,Traversal,Unknown,0,,False,,False,False,,
+1619,03-25-2022,CM,Den Q53,20,85.0,2,2,18,15,0,,0,0,0,0,,True,Traversal,Unknown,0,,False,,False,False,,
+1619,03-26-2022,CM,Q66,19,78.9,3,2,16,13,0,,0,0,0,0,,True,Mid,Unknown,0,,False,,False,False,,
+1619,03-26-2022,CM,Q74,20,85.0,3,1,17,16,0,,0,0,0,0,,True,Traversal,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q74,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q74,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q74,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q74,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q74,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q74,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q74,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q74,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q74,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Qr.2,1,0.0,1,0,0,0,2,0.0,0,0,2,0,,True,Mid,Unknown,0,,False,,False,True,,
+1799,03-25-2022,CM,Qr.2,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q10,3,33.3,1,0,2,1,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,Slow and tippy
+1799,03-25-2022,CM,Q20,5,40.0,1,0,4,2,0,,0,0,0,0,,True,Mid,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q27,4,50.0,1,0,3,2,0,,0,0,0,0,Driver not good at lining up with balls....very long time to intake one ball,True,Unknown,Unknown,0,,False,,False,False,,"Attempted mid bar, but didn't quite get up"
+1799,03-25-2022,CM,Den Q32,6,50.0,1,1,5,2,0,,0,0,0,0,,True,Mid,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Qr. 52,6,16.7,0,0,6,1,0,,0,0,0,0,,False,Mid,Unknown,0,,False,,False,False,,
+1799,03-25-2022,CM,Q60,3,66.7,1,1,2,1,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,
+1977,03-25-2022,CM,Den Q2,5,20.0,0,0,5,1,0,,0,0,0,0,"Slow shooters, average intake",True,None,Unknown,0,,False,,False,False,Missed majority of shots,
+1977,03-25-2022,CM,Den Q2,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+1977,03-25-2022,CM,Q10,4,75.0,0,0,4,3,0,,0,0,0,0,,False,None,Unknown,0,,False,,False,False,,Looks like shooter broke. Played defense
+1977,03-25-2022,CM,Q17,0,,0,0,0,0,10,80.0,0,0,10,8,,True,None,Unknown,0,,False,,False,True,,Looked like they got stuck on the power strip
+1977,03-25-2022,CM,Q22,1,0.0,1,0,0,0,7,71.4,0,0,7,5,,True,Mid,Unknown,0,,False,,False,False,,
+1977,03-25-2022,CM,Q29,0,,0,0,0,0,1,0.0,0,0,1,0,,False,Low,Unknown,0,,False,,False,False,,
+1977,03-25-2022,CM,Den Q38,2,0.0,2,0,0,0,6,50.0,0,0,6,3,,True,None,Unknown,0,,False,,False,False,,Fell off after climb
+1977,03-25-2022,CM,Den Q48,0,,0,0,0,0,0,,0,0,0,0,,False,None,Unknown,0,,False,,True,True,,Robot did not work 
+1977,03-26-2022,CM,Qr.62,2,0.0,2,0,0,0,2,100.0,0,0,2,2,,True,Mid,Unknown,0,,False,,False,True,,
+2036,03-25-2022,CM,Q7,8,50.0,2,2,6,2,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,
+2036,03-25-2022,CM,Den Q12,0,,0,0,0,0,7,57.1,2,0,5,4,,True,Mid,Unknown,0,,False,,False,False,,
+2036,03-25-2022,CM,Q28,5,20.0,2,1,3,0,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,
+2036,03-25-2022,CM,Den Q55,8,75.0,2,2,6,4,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,
+2083,03-19-2022,CP,azfl q43,0,,0,0,0,0,2,50.0,1,0,1,1,,True,Mid,Average ,3,,False,,False,False,,Didn't do much in terms of offense
+2083,03-25-2022,CP,Den Q6,0,,0,0,0,0,4,50.0,2,1,2,1,,True,Mid,Average ,0,,False,,False,True,,
+2083,03-25-2022,CP,Q12,0,,0,0,0,0,3,33.3,1,0,2,1,,True,Mid,Average ,0,,False,,False,False,,
+2083,03-25-2022,CP,Q27,0,,0,0,0,0,4,50.0,0,0,4,2,,True,Mid,Average ,0,,False,,False,False,,Went to hang at 30sec
+2083,03-25-2022,CP,Den Q31,0,,0,0,0,0,3,66.7,1,1,2,1,,True,Mid,Average ,0,,False,,False,False,,
+2083,03-25-2022,CP,Q59,0,,0,0,0,0,3,0.0,0,0,3,0,,True,Mid,Average ,0,,False,,False,False,,
+2240,03-19-2022,CP,azfl q40,2,0.0,2,0,0,0,8,75.0,0,0,8,6,,True,None,Average ,1,,True,"They got 5 penalties. 1 for holding three balls. The others, maybe because they had a strap dragging on the ground outside of the bumpers.",False,True,Got stuck on the power cord until a teammate ran into them.,"Just drove around hangar area, but never hung onto a rung. Switched to all low hub shots this match."
+2240,03-23-2022,NG,Azfl q8,9,33.3,1,0,8,3,0,,0,0,0,0,,True,None,Average ,1,,False,,False,False,,Did get lined up to hang
+2240,03-23-2022,NG,Azfl q16,4,0.0,2,0,2,0,0,,0,0,0,0,,True,Mid,Average ,1,,False,,False,False,,"They were defended by 8087 who was not touching them, but just getting in front of them. Multiple times they gave up trying to shoot. "
+2240,03-23-2022,NG,Azfl q23,13,7.7,2,0,11,1,0,,0,0,0,0,,True,None,Average ,1,,False,,False,False,,"Went in to the hangar, but didn't get lined up with the mid bar."
+2240,03-23-2022,NG,Azfl q29,7,14.3,1,0,6,1,0,,0,0,0,0,,True,Mid,Average ,1,,True,Holding 3 balls,False,False,,Tried to move up to the high bar
+2240,03-23-2022,NG,Azfl q48,1,100.0,1,1,0,0,0,,0,0,0,0,,True,None,Average ,4,,False,,False,False,,Trying to pick up balls and shoot at the beginning of the match. Got heavy defense from 4418. Switched to playing defense because 2122 was scoring enough. 
+2240,03-23-2022,NG,Azfl q58,2,50.0,2,1,0,0,0,,0,0,0,0,,True,Mid,Average ,4,,False,,False,False,,Tried to climb to the high bar. Solely played defense this match. Not fast enough to defend swerve robots. 
+2240,03-25-2022,NG,Q3,7,100.0,1,1,6,6,0,,0,0,0,0,,True,Unknown,Average ,0,,False,,False,False,,Did not climb
+2240,03-25-2022,NG,Q12,13,61.5,2,1,11,7,0,,0,0,0,0,"Shoot two balls, one goes in other bounced out",True,Mid,Average ,0,,False,,False,False,,
+2240,03-25-2022,NG,Den Q28,12,91.7,2,2,10,9,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,
+2240,03-25-2022,NG,Den Q37,11,54.5,2,2,9,4,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,
+2240,03-25-2022,NG,Den Q42,11,63.6,1,1,10,6,0,,0,0,0,0,,True,None,Average ,0,,False,,False,False,,
+2240,03-25-2022,NG,Q61,11,54.5,2,1,9,5,0,,0,0,0,0,,True,None,Average ,0,,True,1 according to the annoncer,False,True,,
+2486,03-19-2022,CP,azfl q45,14,42.9,2,0,12,6,0,,0,0,0,0,From just behind the tarmac,True,None,Fast,1,,False,,False,False,Reliable,"Shot almost exclusively for the upper hub. Climbed on mid bar, then lowered after the buzzer."
+2486,03-23-2022,NG,Azfl q5,17,58.8,2,0,15,10,0,,0,0,0,0,,True,Low,Fast,1,,False,,False,False,,
+2486,03-23-2022,NG,Azfl q11,13,46.2,1,0,12,6,0,,0,0,0,0,,True,Low,Fast,1,,False,,False,True,,
+2486,03-23-2022,NG,Azfl q16,19,57.9,1,0,18,11,0,,0,0,0,0,,True,None,Fast,1,,False,,False,False,,"Hung on the mid bar, but lowered to the floor after the buzzer."
+2486,03-23-2022,NG,Azfl q20,13,84.6,1,1,12,10,0,,0,0,0,0,Just outside the tarmac tape ,True,None,Fast,1,,False,,False,False,,Hung on the mid bar but lowered after the buzzer 
+2486,03-23-2022,NG,Azfl q25,16,43.8,2,0,14,7,0,,0,0,0,0,,True,None,Fast,1,,False,,False,False,,
+2486,03-23-2022,NG,Azfl q31,11,72.7,2,1,9,7,0,,0,0,0,0,,True,None,Fast,1,,False,,False,False,,"Most shots were single balls this match. Often the second ball misses. Couldn't hang because there were two robots in the way, but still tried "
+2486,03-23-2022,NG,Azfl q39,7,57.1,1,0,6,4,0,,0,0,0,0,,True,Mid,Fast,1,,False,,True,False,,"Either intake or shooter stopped working. Did defense for a bit, then went to hang early."
+2486,03-23-2022,NG,Azfl q53,7,42.9,1,0,6,3,0,,0,0,0,0,,True,None,Unknown,1,,False,,True,False,,Stopped moving with 1:30 left
+2486,03-23-2022,NG,Azfl q58,17,23.5,2,0,15,4,0,,0,0,0,0,,True,None,Fast,1,,True,Being in the opposing hangar at 30sec,False,False,,
+2486,03-24-2022,NG,Azfl q58,0,,0,0,0,0,0,,0,0,0,0,,False,Unknown ,Unknown,1,,False,,False,False,,
+2486,03-25-2022,NG,Q1,13,53.8,3,0,10,7,0,,0,0,0,0,,True,Mid,Unknown,0,,False,,False,False,,13sec mark to hang
+2486,03-25-2022,NG,Den Q21,10,80.0,0,0,10,8,0,,0,0,0,0,Fast intake,True,High,Unknown,0,,False,,False,False,,
+2486,03-25-2022,NG,Q26,5,140.0,0,0,5,7,0,,0,0,0,0,,True,Mid,Unknown,0,,False,,False,False,,
+2486,03-25-2022,NG,Q33,14,78.6,3,2,11,9,0,,0,0,0,0,,True,None,Unknown,0,,False,,True,False,,Stopped moving around 45sec left
+2486,03-25-2022,NG,Q37,23,56.5,3,2,20,11,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,"Tried to get to hanger, ran out of time"
+2486,03-25-2022,NG,Den Q51,13,76.9,1,1,12,9,0,,0,0,0,0,,True,High,Unknown,0,,False,,False,False,,
+2486,03-25-2022,NG,Den Q56,12,58.3,2,1,10,6,0,,0,0,0,0,,True,High,Unknown,0,,False,,False,False,,
+2945,03-19-2022,CP,caph q5,6,50.0,1,1,5,2,0,,0,0,0,0,From the red side,True,Mid,Average ,1,,False,,False,False,,"Really liked to shoot from really long range. (Namely, next to the red launch pad.)"
+2945,03-19-2022,NG,caph q65,1,100.0,1,1,0,0,0,,0,0,0,0,,True,Mid,Average ,3,"Looked like they were only playing defense, but they didn't seem very effective ",True,Blocking an opponent ,False,False,,
+2945,03-19-2022,NG,caph qf3-1,1,100.0,1,1,0,0,0,,0,0,0,0,,True,None,Average ,3,Not always effective ,False,,False,False,,
+2945,03-19-2022,NG,caph qf3-2,1,100.0,1,1,0,0,0,,0,0,0,0,,True,None,Average ,3,More effective at defense this match,False,,False,False,,Changed their auto routine from the previous match to move out of the way of 973 so 973 could make more auto shots
+2945,03-19-2022,NG,caph q62,7,42.9,1,0,6,3,0,,0,0,0,0,Next to the hangar,True,Low,Average ,1,,False,,False,False,, Slow speed when trying to pick up balls
+2945,03-20-2022,NG,caph q58,8,50.0,1,1,7,3,0,,0,0,0,0,,True,Mid,Average ,1,,False,,False,False,,"Most shots were only single balls.
+Had trouble picking up balls."
+2945,03-25-2022,NG,Q2,15,53.3,2,1,13,7,0,,0,0,0,0,A little shaky on intake,True,None,Average ,0,,False,,False,False,,"Attempted low bar climb, not enough time"
+2945,03-25-2022,NG,Q12,9,77.8,3,3,6,4,0,,0,0,0,0,Shooting is great and fast. Intake is slow,True,Mid,Average ,0,,False,,False,False,,
+2945,03-25-2022,NG,Q20,1,0.0,1,0,0,0,0,,0,0,0,0,Intake may not have been working ,True,Unknown,Average ,1,Good,False,,False,False,,
+2945,03-25-2022,NG,Q27,9,44.4,2,1,7,3,0,,0,0,0,0,Balls bounce out frequently,True,Mid,Average ,0,,False,,False,False,,
+2945,03-25-2022,NG,Q34,2,100.0,2,2,0,0,0,,0,0,0,0,Intake broke right after teleop started,True,Mid,Average ,0,,False,,True,False,,Intake broke. Parked over near the hangar and waited for 1410 to climb to traversal bar before they climbed to mid bar.
+2945,03-25-2022,NG,Q43,0,,0,0,0,0,1,0.0,1,0,0,0,,True,High,Average ,0,,False,,False,False,,
+2945,03-25-2022,NG,Q57,3,66.7,1,1,2,1,0,,0,0,0,0,,True,High,Average ,0,,False,,False,False,,
+2972,03-25-2022,NG,Q1,0,,0,0,0,0,0,,0,0,0,0,Picked up one ball and kept it the whole match,False,None,Average ,0,,False,,False,False,,
+2972,03-25-2022,NG,Q13,1,0.0,0,0,1,0,0,,0,0,0,0,,True,None,Average ,1,,False,,False,False,,Very very slow. Next to no ball handling
+2972,03-25-2022,NG,Q20,1,100.0,1,1,0,0,0,,0,0,0,0,Had very heavy defense on them the whole match,True,None,Average ,0,,False,,False,False,,
+2972,03-25-2022,NG,Q24,1,0.0,0,0,1,0,0,,0,0,0,0,,True,None,Average ,0,,False,,False,True,Lost connection for 15s,
+2972,03-25-2022,NG,Qr. 34,1,0.0,1,0,0,0,0,,0,0,0,0,,True,Unknown,Average ,0,,False,,False,False,,Battery fell out right away
+2972,03-25-2022,NG,Q44,0,,0,0,0,0,2,50.0,2,1,0,0,,True,None,Average ,0,,False,,False,False,,Very slow 
+2972,03-25-2022,NG,Q53,3,100.0,0,0,3,3,0,,0,0,0,0,,True,Unknown,Average ,0,,False,,False,False,,
+2972,03-25-2022,NG,Den Q57,0,,0,0,0,0,1,0.0,0,0,1,0,,True,None,Average ,0,,False,,False,False,,"Drove around, shot once and didnt do anything else but drive around"
+2996,03-16-2022,JB,2022okok-qf3-1,4,25.0,1,0,3,1,0,,0,0,0,0,At the base of the hub. Was easily pushed around and defended.,True,Mid,Slow,1,Was defended,False,,False,True,,Driving was not fluid.
+2996,03-17-2022,JB,2022okok-qf3-2,9,77.8,1,1,8,6,0,,0,0,0,0,,True,None,Average ,1,,False,,False,False,,Driving was jerky and not fluid.
+2996,03-17-2022,JB,2022okok-qm71,10,50.0,1,0,9,5,0,,0,0,0,0,Must be at the base of the hub as their shots go straight up.,True,Mid,Average ,1,,False,,False,False,,
+2996,03-25-2022,JB,Den Q4,11,36.4,2,0,9,4,0,,0,0,0,0,Shots often bounced out of upper hub. ,True,Mid,Average ,0,,False,,False,False,,
+2996,03-25-2022,JB,Qr.8,12,0.0,2,0,10,0,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,Went to hanger with 38sec left
+2996,03-25-2022,JB,Q21,7,85.7,1,0,6,6,0,,0,0,0,0,,True,None,Average ,1,They blocked some shots but we're mostly offense,False,,False,False,,
+2996,03-25-2022,JB,Q26,10,60.0,2,1,8,5,0,,0,0,0,0,Heavy defense from 1332,True,None,Average ,0,,False,,False,False,,
+2996,03-25-2022,JB,Q30,2,50.0,2,1,0,0,0,,0,0,0,0,,True,Mid,Average ,1,Ok. Not as focused as others,False,,False,False,,
+2996,03-25-2022,JB,Qr.36,15,53.3,2,1,13,7,0,inf,0,0,0,1,,True,None,Average ,0,,False,,False,False,,
+2996,03-25-2022,JB,Q55,0,,0,0,0,0,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,
+2996,03-25-2022,JB,Q59,10,80.0,1,1,9,7,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,
+2996,03-26-2022,JB,Q73,11,54.5,1,1,10,5,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,
+3200,03-19-2022,CP,azfl q42,5,60.0,1,1,4,2,0,,0,0,0,0,,True,Low,Average ,1,,False,,False,False,"Intake reliable, shooter reliable",Shot almost exclusively for the upper hub
+3200,03-21-2022,NG,azfl q10,1,100.0,1,1,0,0,0,,0,0,0,0,,True,Mid,Average ,3,,False,,True,False,"Intake didn't work. Dropped 2 balls, then gave up and played defense.",
+3200,03-22-2022,NG,azfl q17,3,33.3,1,1,2,0,1,200.0,0,0,1,2,,True,Mid,Average ,1,,False,,False,True,Shooter wasn't working or not working well.,
+3200,03-22-2022,NG,azfl q24,4,25.0,1,0,3,1,0,,0,0,0,0,,True,Mid,Average ,1,,False,,False,False,Shooter still not working correctly.,
+3200,03-22-2022,NG,azfl q29,10,50.0,1,1,9,4,0,,0,0,0,0,,True,Mid,Average ,1,,False,,False,False,,
+3200,03-22-2022,NG,azfl q33,10,80.0,1,0,9,8,0,,0,0,0,0,Best when they shoot from far away. Missed when they shot from the narrow  part of the field.,True,Mid,Average ,1,,False,,False,False,,
+3200,03-22-2022,NG,azfl q42,7,57.1,1,1,6,3,0,,0,0,0,0,,True,Low,Average ,1,,False,,False,False,Trouble with the shooter.,
+3200,03-22-2022,NG,azfl q47,8,100.0,1,1,7,7,0,,0,0,0,0,"Lots of defense from 4550, so they started shooting from the corner of the hangar.",True,None,Average ,1,,False,,False,False,,
+3200,03-22-2022,NG,azfl q58,13,84.6,1,1,12,10,0,,0,0,0,0,From the corner of the hangar,True,Low,Average ,1,,False,,False,False,,
+3200,03-25-2022,NG,Q6,2,50.0,2,1,0,0,0,,0,0,0,0,,True,Low,Average ,0,,False,,False,False,,
+3200,03-25-2022,NG,Q6,4,50.0,0,0,4,2,0,,0,0,0,0,,False,None,Average ,1,Good,False,,False,False,,
+3200,03-25-2022,NG,Q17,5,80.0,1,1,4,3,0,,0,0,0,0,Shooter sometimes only does 1 at a time,True,Mid,Average ,0,,False,,False,False,,
+3200,03-25-2022,NG,Q29,11,45.5,2,1,9,4,0,,0,0,0,0,,True,Unknown,Average ,0,,False,Announcer said they did. Not sure why,False,False,,
+3200,03-25-2022,NG,Q35,9,77.8,2,2,7,5,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,
+3200,03-25-2022,NG,Qr.43,0,,0,0,0,0,0,,0,0,0,0,,False,Mid,Average ,0,,False,,False,True,,"Lime light stopped, intook balls never shot them"
+3200,03-26-2022,NG,Q67,6,0.0,0,0,6,0,0,,0,0,0,0,Shooter shoots short for high. Intake works well. Possible low hub strategy. Sits for a long time before shooting,True,None,Average ,0,,False,,False,False,,Tried to hang but not enough time 
+3200,03-26-2022,NG,Q74,7,100.0,1,1,6,6,0,,0,0,0,0,,True,Low,Average ,0,,False,,False,False,,
+3374,03-19-2022,NG-CP,caph q62,3,100.0,1,1,2,2,0,,0,0,0,0,,True,Low,Average ,3,,True,"1 penalty for pinning
+1 penalty for field damage
+1 penalty for extending to climb before they were in the hangar area",False,False,,Chris - Didn't shoot much. Was defended very well.
+3374,03-19-2022,MH,Q4,14,85.7,3,2,11,10,0,,0,0,0,0,,True,Traversal ,Fast,1,,False,,False,False,,Trouble getting Cargo in bad positions. Did seem to use driver cam once
+3374,03-19-2022,NG,caph q66,17,58.8,2,2,15,8,0,,0,0,0,0,,True,Low,Fast,1,,False,,False,False,,Handled being defended well
+3374,03-19-2022,NG,caph qf4-1,11,81.8,2,2,9,7,0,,0,0,0,0,Straddling the tarmac tape,True,Mid,Fast,1,,False,,False,False,,"Had trouble hooking on to the mid bar.
+Heavily defended against, so had trouble picking up balls.
+Many cargo shot cycles were single balls."
+3374,03-19-2022,NG,caph qf4-2,15,80.0,2,2,13,10,0,,0,0,0,0,From the outside tarmac tape,True,Mid,Fast,1,,False,,False,False,,They got stuck on one of their alliance members for 10sec
+3374,03-20-2022,NG,caph q57,16,87.5,2,2,14,12,0,,0,0,0,0,,True,Mid,Fast,1,,False,,False,False,,Had an easy time getting rid of a wrong color ball and keeping one of the right color.
+3374,03-20-2022,NG,caph q49,16,87.5,2,1,14,13,0,,0,0,0,0,,True,Mid,Fast,1,,False,,False,False,,
+3374,03-25-2022,NG,Q11,5,100.0,3,3,2,2,0,,0,0,0,0,Intake looked unreliable. Shooter good,True,Traversal,Fast,0,,False,,False,False,Intake seemed to break,Great shooter. Reliable once they take the shot
+3374,03-25-2022,NG,Den Q27,11,81.8,0,0,11,9,0,inf,0,0,0,1,,True,Mid,Fast,0,,False,,False,False,,
+3374,03-25-2022,NG,Q34,14,85.7,2,2,12,10,0,,0,0,0,0,,True,High,Fast,0,,False,,False,False,,
+3374,03-25-2022,NG,Q53,11,72.7,2,0,9,8,0,,0,0,0,0,,True,Traversal,Fast,0,,False,,False,False,,
+3374,03-26-2022,NG,Q64,11,54.5,2,2,9,4,0,,0,0,0,0,,True,High,Fast,0,,False,,False,False,,
+3374,03-26-2022,NG,Q71,18,83.3,3,3,15,12,0,,0,0,0,0,Intake is fast. Shooter pretty consistent ,True,Mid,Fast,0,,False,,False,False,,Driver did a good job avoiding defensive bots. Good use of time. Mid climb was fast
+3648,03-25-2022,NG,Den Q3,12,8.3,1,0,11,1,0,,0,0,0,0,,True,None,Fast,0,,False,,False,False,Missed most shots.,
+3648,03-25-2022,NG,Q17,7,0.0,1,0,6,0,1,0.0,0,0,1,0,,False,Unknown,Fast,0,,False,,False,False,,Attempted mid hang
+3648,03-25-2022,NG,Q26,7,14.3,1,0,6,1,0,,0,0,0,0,,True,Mid,Fast,0,,False,,False,False,,Robot very tippy
+3648,03-25-2022,NG,Qr. 26,8,0.0,1,0,7,0,0,inf,0,0,0,1,,True,Mid,Fast,0,,False,,False,True,,
+3648,03-25-2022,NG,Qr.32,6,33.3,0,0,6,2,0,,0,0,0,0,Took a while to pine up to shoot,True,None,Fast,0,,False,,False,False,,Stuck on low bar
+3648,03-25-2022,NG,Qr.37,6,50.0,2,2,4,1,0,,0,0,0,0,,True,None,Fast,0,,False,,False,False,,Top eveay
+3648,03-25-2022,NG,Q58,4,50.0,1,1,3,1,0,,0,0,0,0,,True,Mid,Fast,0,,True,Robot entanglement,False,False,Intake broke during match,Very tippy
+3729,03-25-2022,NG,Q1,11,54.5,2,1,9,5,0,,0,0,0,0,"Trouble with intake, shoots close to hub",True,Traversal,Fast,0,No defense this match,False,,False,False,,
+3729,03-25-2022,NG,Den Q14,7,42.9,1,0,6,3,0,,0,0,0,0,,True,Traversal,Fast,0,,False,,False,False,,
+3729,03-25-2022,NG,Q25,9,88.9,1,1,8,7,0,,0,0,0,0,,True,Traversal,Fast,0,,False,,False,False,,Hang at 45sec
+3729,03-25-2022,NG,Den Q29,12,75.0,2,1,10,8,0,,0,0,0,0,,True,Traversal,Fast,0,,False,They got a foul,False,False,,
+3729,03-25-2022,NG,Q36,1,100.0,1,1,0,0,0,,0,0,0,0,,True,Traversal,Fast,0,,False,,False,False,,
+3729,03-25-2022,NG,Q42,8,75.0,2,2,6,4,0,,0,0,0,0,,True,Traversal,Fast,0,,False,,False,False,,Lost some time when they got the wrong color ball
+3729,03-25-2022,NG,Q49,6,50.0,1,0,5,3,0,,0,0,0,0,,True,Traversal,Fast,0,,False,,False,False,,
+3729,03-25-2022,NG,Q55,12,75.0,3,2,9,7,0,,0,0,0,0,One ball stayed in upper hub for a LONG time then bounced out,True,Traversal,Fast,0,,False,,False,False,,
+3729,03-26-2022,NG,Q65,7,85.7,2,2,5,4,0,,0,0,0,0,,True,Mid,Fast,0,,False,,False,False,,
+3729,03-26-2022,NG,Q70,9,33.3,2,1,7,2,0,,0,0,0,0,1st shot on upper hub misses usually. Intake is fast and effective,True,Traversal,Fast,0,,True,Held red cargo ,False,False,,Traversal climb looked solid. Very little swing 
+4068,03-19-2022,CP,azfl q9,2,50.0,2,1,0,0,20,100.0,0,0,20,20,,True,Mid,Fast,1,,False,,False,False,Very reliable,"Only shot for the lower hub. Trigger happy, shooting 20 times. Made all 20 shots."
+4068,03-25-2022,CP,Q24,13,53.8,2,2,11,5,0,,0,0,0,0,,True,Unknown,Fast,0,,False,,False,False,,Fell on climb 
+4068,03-25-2022,CP,Q60,8,25.0,3,0,5,2,10,50.0,0,0,10,5,,True,Mid,Fast,0,,False,,False,False,,
+4293,03-19-2022,CP,okok q52,0,,0,0,0,0,7,57.1,1,1,6,3,,True,None,Fast,2,,False,,False,False,"Reliable intake, reliable lower hub shooter",Shot almost exclusively for the lower hub. Was defended decently.
+4293,03-24-2022,CP,okok q52,0,,0,0,0,0,0,,0,0,0,0,,False,Traversal ,Unknown,1,,False,,False,False,,
+4293,03-25-2022,CP,Q2,0,,0,0,0,0,3,66.7,0,0,3,2,,True,High,Unknown,0,,False,,False,False,,
+4293,03-25-2022,CP,Den Q8,0,,0,0,0,0,4,75.0,1,1,3,2,,True,Traversal,Unknown,0,,False,,False,False,Good reliable climber ,
+4293,03-25-2022,CP,Q15,0,,0,0,0,0,4,100.0,2,2,2,2,,True,Unknown,Unknown,0,,False,,False,False,,
+4293,03-25-2022,CP,Q23,0,,0,0,0,0,5,80.0,1,1,4,3,,True,None,Unknown,0,,False,,False,False,,
+4293,03-25-2022,CP,Q31,0,,0,0,0,0,5,80.0,1,1,4,3,,True,Traversal,Unknown,0,,False,,False,False,,Started hang at 75sec
+4293,03-25-2022,CP,Qr. 56,0,,0,0,0,0,6,66.7,1,1,5,3,,True,Traversal,Unknown,0,,False,,False,False,,
+4293,03-26-2022,CP,Q70,0,,0,0,0,0,8,37.5,1,1,7,2,,True,Traversal,Unknown,0,,False,,False,False,,Went to the bar earlier (53s) and started hanging at 43s. Very fast and go for the lower hub.
+4386,03-25-2022,CP,Q2,6,66.7,0,0,6,4,0,,0,0,0,0,"They balance the ball on top of the robot before shooting, seems easy to knock off",True,None,Unknown,0,,False,,False,False,,
+4386,03-25-2022,CP,Q11,0,,0,0,0,0,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,
+4386,03-25-2022,CP,Q22,0,,0,0,0,0,0,,0,0,0,0,,True,None,Unknown,0,,False,,True,False,(JB per NG) Stopped moving.,
+4386,03-25-2022,CP,Q32,5,40.0,1,0,4,2,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,
+4386,03-25-2022,CP,Den Q36,4,25.0,0,0,4,1,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,Unreliable shooter rarely scores a ball.,
+4386,03-25-2022,CP,Q43,3,66.7,1,1,2,1,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,Stopped moving half way thru match
+4386,03-25-2022,CP,Den Q50,8,37.5,1,0,7,3,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,
+4386,03-25-2022,CP,Q59,4,50.0,1,1,3,1,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,Robot studdered and didn't move much or handle balls for 2nd half,
+4386,03-26-2022,CP,Q64,6,50.0,1,1,5,2,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,No automatic aiming system. Bad manual aiming. Only could properly aim when no one was interfering.
+4388,03-25-2022,CP,Q7,2,0.0,0,0,2,0,0,,0,0,0,0,,True,Unknown,Unknown,1,,False,,False,False,,"MH: getting better, but they still miss most UH shots. No climbs yet"
+4388,03-25-2022,CP,Q17,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Unknown,0,,False,,False,False,,"Stopped moving, but could still spin in teleop"
+4388,03-25-2022,CP,Q22,10,60.0,1,1,9,5,1,100.0,0,0,1,1,,True,None,Unknown,0,,False,,False,False,,
+4388,03-25-2022,CP,Q33,1,100.0,1,1,0,0,0,,0,0,0,0,,True,None,Unknown,1,Decent defense for entire teleop,False,,False,False,,Drove to hanger but no hang attempt 
+4388,03-25-2022,CP,Q40,2,100.0,2,2,0,0,0,,0,0,0,0,Don't think they shot anything. Might have had intake problems. Distracted watching 4068 :),True,Mid,Unknown,1,Ok,False,,False,False,,Sideways hang
+4388,03-25-2022,CP,Q45,2,50.0,2,1,0,0,0,,0,0,0,0,,True,None,Unknown,1,"Pretty good. Looked like they got penalties, but nothing showed up in the score. ",False,,True,False,,Either disabled or stopped working with 1min left
+4388,03-25-2022,CP,Q51,2,100.0,2,2,0,0,0,,0,0,0,0,,True,None,Unknown,1,,False,,False,False,,
+4388,03-25-2022,CP,Q57,0,,0,0,0,0,0,,0,0,0,0,,True,None,Unknown,1,,True,Aggressively hits ,True,False,"Intake broke during match. Disconnected from field for last 45s, possible e-stop",
+4388,03-26-2022,CP,Q63,1,100.0,1,1,0,0,0,,0,0,0,0,Intake doesn't work well,False,None,Unknown,0,,False,,False,True,,Moved. Stopped. Moved very little. Stopped. 
+4388,03-26-2022,CP,Q70,14,50.0,1,1,13,6,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,Worked much better this match
+4418,03-19-2022,CP,azfl q33,0,,0,0,0,0,7,85.7,2,2,5,4,Up against the hub,True,None,Slow,1,,False,,False,False,,They had defense against them.
+4418,03-20-2022,NG,azfl q52,0,,0,0,0,0,15,86.7,2,1,13,12,,True,None,Average ,1,,False,,False,False,,
+4418,03-20-2022,NG,azfl q56,0,,0,0,0,0,14,92.9,2,2,12,11,Up against the hub.,True,None,Average ,1,,False,,False,False,,
+4418,03-20-2022,NG,azfl q62,0,,0,0,0,0,11,100.0,2,2,9,9,,True,None,Average ,1,,False,,False,False,,Got one side stuck trying to hang on the mid bar
+4418,03-21-2022,NG,azfl q6,0,,0,0,0,0,9,100.0,1,1,8,8,,True,None,Average ,1,,False,,False,False,,Got stuck on one bumper trying to hang.
+4418,03-21-2022,NG,azfl q11,0,,0,0,0,0,12,91.7,2,1,10,10,,True,None,Average ,1,,False,,False,False,,Got a bumper stuck trying to hang.
+4418,03-21-2022,NG,azfl q15,0,,0,0,0,0,14,92.9,1,1,13,12,,True,None,Average ,1,,False,,False,False,,"Didn't get stuck trying to hang, but couldn't get lined up."
+4418,03-21-2022,NG,azfl q21,0,,0,0,0,0,10,100.0,2,2,8,8,,True,None,Average ,1,,False,,False,False,,Came in from the side to hang. Got stuck on a bumper. 
+4418,03-21-2022,NG,azfl q28,0,,0,0,0,0,12,83.3,1,1,11,9,,True,None,Unknown,1,,False,,False,True,,
+4418,03-21-2022,NG,azfl q40,0,,0,0,0,0,10,90.0,2,2,8,7,,True,Unknown ,Average ,1,,True,1 for holding 3 balls,False,False,,
+4418,03-21-2022,NG,azfl q48,0,,0,0,0,0,9,88.9,2,2,7,6,,True,Mid,Average ,1,,False,,False,False,,"Looked like they were hanging, but it didn't count. Heavy defense against them this match."
+4418,03-24-2022,CM,Prac 2,0,,0,0,0,0,0,inf,0,0,0,14,,True,Unknown ,Unknown,1,,False,,False,False,,
+4418,03-24-2022,CM,Prac 2,0,,0,0,0,0,0,,0,0,0,0,,False,Unknown ,Unknown,1,,False,,False,False,,
+4418,03-25-2022,CM,Q9,0,,0,0,0,0,8,87.5,0,0,8,7,,True,None,Unknown,0,,False,,False,False,,
+4418,03-25-2022,CM,Q3,3,33.3,3,1,0,0,8,100.0,0,0,8,8,,True,Mid,Unknown,0,,False,,False,False,,
+4418,03-25-2022,CM,Q18,0,,0,0,0,0,14,78.6,1,1,13,10,,True,Mid,Unknown,0,,False,,False,False,,
+4418,03-25-2022,CM,Q24,0,,0,0,0,0,12,83.3,2,2,10,8,,True,None,Unknown,0,,False,,False,False,,
+4418,03-25-2022,CM,Q30,1,0.0,1,0,0,0,5,40.0,0,0,5,2,,True,None,Unknown,1,They played a little bit of defense by bumping into other robots on occasion. ,False,,False,False,,
+4418,03-25-2022,CM,Q30,2,100.0,2,2,0,0,0,,0,0,0,0,,True,None,Unknown,1,Only did defense this match. Did good,False,,False,False,,Stayed out of the hangar when we were swinging on the traversal bar
+4418,03-25-2022,CM,Q35,0,,0,0,0,0,4,100.0,1,1,3,3,,True,Mid,Unknown,0,,False,,False,False,,
+4418,03-25-2022,CM,Q51,14,78.6,0,0,14,11,2,100.0,2,2,0,0,,True,None,Unknown,0,,False,,False,False,,Attempted mid hang but ran out of time
+4418,03-25-2022,CM,Den Q58,0,,0,0,0,0,2,100.0,2,2,0,0,,True,Mid,Unknown,1,Was able to push robots to interrupt shooting,False,,False,False,,
+4418,03-26-2022,CM,Q64,0,,0,0,0,0,12,83.3,2,2,10,8,Consist low shooter. Intake is a bit slow,True,None,Unknown,0,,False,,False,False,,"Tried to hang mid looks like, ran out of time"
+4418,03-26-2022,CM,Q70,0,,0,0,0,0,8,100.0,0,0,8,8,,True,Mid,Unknown,0,,False,,False,False,,
+4499,03-16-2022,JB,2022okok-qf3-1,17,88.2,2,1,15,14,0,,0,0,0,0,,True,Mid,Average ,1,,False,,False,False,,
+4499,03-16-2022,JB,2022okok-f2,17,70.6,3,3,14,9,0,,0,0,0,0,"Yes, hangar side along the long wall.",True,Low,Average ,1,,False,,False,False,,
+4499,03-16-2022,JB,2022okok-f1,13,69.2,3,2,10,7,0,,0,0,0,0,"Yes, along the long wall adjacent to their alliance hangar.",True,Mid,Average ,1,,False,,False,True,At about 45 seconds to end of the match they just went SLOW and did get their speed back til about 10 seconds til the end of the match.,
+4499,03-17-2022,JB,2022okok-qf3-2,17,94.1,2,1,15,15,0,,0,0,0,0,In the tarmac nearest their launchpad and against the middle of the long wall.,True,Mid,Average ,1,,False,,False,False,,
+4499,03-24-2022,MH,Q3,18,66.7,4,2,14,10,0,,0,0,0,0,Near the Lower Hub,True,High,Fast,1,,True,,False,False,,Started climb at 33
+4499,03-25-2022,MH,Q14,8,100.0,2,2,6,6,0,,0,0,0,0,,True,High,Fast,0,,False,,False,False,,
+4499,03-25-2022,MH,Qr.34,10,80.0,2,2,8,6,0,,0,0,0,0,,True,High,Fast,0,,False,,False,False,,
+4499,03-25-2022,MH,Q38,20,65.0,4,0,16,13,0,,0,0,0,0,,True,High,Fast,0,,False,,False,False,,
+4499,03-25-2022,MH,Q50,8,50.0,0,0,8,4,0,,0,0,0,0,,True,None,Fast,0,,False,,False,False,,
+4499,03-25-2022,MH,Q56,18,61.1,4,2,14,9,0,,0,0,0,0,,True,None,Fast,0,,False,,False,False,,Shot until the end to get the ball rp 
+4499,03-26-2022,MH,Q67,7,71.4,2,1,5,4,0,,0,0,0,0,,True,Mid,Fast,0,,False,,False,False,,
+4499,03-26-2022,MH,Qr. 72,6,50.0,1,0,5,3,0,,0,0,0,0,,True,Mid,Fast,0,,False,,False,False,,
+4550,03-19-2022,Chris,azfl q41,0,,0,0,0,0,3,100.0,1,1,2,2,,True,Low,Average ,4,Got real physical,False,,False,False,Reliable for low hub,
+4550,03-20-2022,NG,azfl q47,0,,0,0,0,0,1,0.0,1,0,0,0,,True,High,Average ,5,Did a good job,False,,False,False,,Tippy
+4550,03-20-2022,NG,azfl q51,0,,0,0,0,0,1,0.0,1,0,0,0,,True,Mid,Average ,5,,False,,False,False,,
+4550,03-20-2022,NG,azfl q57,0,,0,0,0,0,1,100.0,1,1,0,0,,True,Traversal ,Average ,4,,False,,False,False,,
+4550,03-20-2022,NG,azfl q32,0,,0,0,0,0,1,100.0,1,1,0,0,,True,None,Average ,4,,False,,False,True,,Stopped moving with 40sec remaining.
+4550,03-20-2022,NG,azfl q41,0,,0,0,0,0,1,0.0,1,0,0,0,,True,Mid,Average ,5,,False,,False,False,,
+4550,03-21-2022,NG,azfl q1,0,,0,0,0,0,0,,0,0,0,0,,True,Traversal ,Average ,4,,False,,False,False,,
+4550,03-21-2022,NG,azfl q10,0,,0,0,0,0,1,100.0,1,1,0,0,,True,None,Unknown,1,,False,,False,True,Didn't move after taxi for auto.,
+4550,03-21-2022,NG,azfl q15,0,,0,0,0,0,1,100.0,1,1,0,0,,True,None,Average ,5,,False,,False,True,Stopped moving with 40sec left,
+4550,03-21-2022,NG,azfl q19,0,,0,0,0,0,1,0.0,1,0,0,0,,True,Traversal ,Average ,5,,False,,False,False,,Went to hang with 1:05 left
+4550,03-21-2022,NG,azfl q25,0,,0,0,0,0,0,,0,0,0,0,,True,None,Average ,5,,False,,False,False,,Couldn't get lined up to hang. No one else in the hangar.
+4550,03-25-2022,NG,Q5,1,0.0,1,0,0,0,0,,0,0,0,0,,True,None,Average ,0,,False,,False,True,"Disconnected from field for 20s, then another 20s",
+4550,03-25-2022,NG,Q14,0,,0,0,0,0,0,,0,0,0,0,,False,Traversal,Average ,1,Physically blocking robots without pinning them,False,,False,False,,
+4550,03-25-2022,NG,Q19,1,0.0,1,0,0,0,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,Gets stuck on low bar when backed into
+4550,03-25-2022,NG,Q25,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Average ,0,,False,,False,False,,
+4550,03-25-2022,NG,Qr. 38,1,0.0,1,0,0,0,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,"Top heavy, bouncy"
+4550,03-25-2022,NG,Q42,1,100.0,1,1,0,0,0,,0,0,0,0,Some shots. Didn't count,True,Mid,Average ,1,,True,1 that I noticed ,False,False,,
+4550,03-25-2022,NG,Q52,3,100.0,1,1,2,2,0,,0,0,0,0,Lost one ball from intake,True,Traversal,Average ,0,,False,,False,False,,
+4550,03-25-2022,NG,Q57,8,25.0,1,0,7,2,0,,0,0,0,0,,True,High,Average ,1,"Some, very irratic driving ",False,,False,False,,Did grab traversal but didn't let go of high
+4550,03-26-2022,NG,Q57,1,0.0,1,0,0,0,0,,0,0,0,0,,True,Traversal,Average ,1,Good job,False,,False,False,,
+4593,03-17-2022,JB,2022mndu2-qf2-2,11,72.7,2,1,9,7,0,,0,0,0,0,,True,None,Slow,1,,False,,False,False,,
+4593,03-17-2022,JB,2022mndu2-qf2-3,11,54.5,2,2,9,4,0,,0,0,0,0,,True,Mid,Average ,2,Can be defended by bumping them during shot.,True,Took possession of 3 balls.,False,False,,Intake not very reliable. 
+4593,03-25-2022,JB,2022mndu2-qf2-3,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Average ,0,,False,,False,False,,
+4593,03-25-2022,JB,2022mndu2-qf2-3,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Average ,0,,False,,False,False,,
+4593,03-25-2022,JB,Qr.9,15,66.7,2,0,13,10,1,200.0,0,1,1,1,,True,High,Average ,0,,False,,False,False,,
+4593,03-25-2022,JB,Q21,10,70.0,1,1,9,6,0,,0,0,0,0,,True,None,Average ,0,,False,,False,False,,
+4593,03-25-2022,JB,Q29,13,69.2,2,2,11,7,0,,0,0,0,0,,True,High,Average ,0,,False,,False,False,,
+4593,03-25-2022,JB,Den Q43,18,55.6,2,0,16,10,0,,0,0,0,0,,True,High,Average ,0,,False,,False,False,,Balls often bounce out of hub
+4593,03-25-2022,JB,Q49,15,66.7,2,0,13,10,0,,0,0,0,0,,True,High,Average ,0,,False,,False,False,,
+4593,03-26-2022,JB,Q71,14,78.6,2,2,12,9,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,
+4944,03-25-2022,JB,Den Q13,0,,0,0,0,0,4,100.0,0,0,4,4,"Fast intake, easily drops cargo into lower hub",True,Mid,Average ,1,They were able to almost pin a robot,False,,False,False,,Their elevator seemed to stop working during teleop
+4944,03-25-2022,JB,Q18,0,,0,0,0,0,5,0.0,1,0,4,0,Looked like they were having trouble driving. Dumped 4 balls on the floor. Gave up with 1min left,True,None,Average ,0,,False,,False,False,,Tried to hang at 1min. Gave up and moved out of the way. 
+4944,03-25-2022,JB,Den Q22,0,,0,0,0,0,12,75.0,2,2,10,7,,True,None,Average ,0,,False,,True,True,,Robot shut down at the end of teleop
+4944,03-25-2022,JB,Q39,0,,0,0,0,0,4,100.0,1,1,3,3,,True,Mid,Average ,0,,False,,False,False,,
+4944,03-25-2022,JB,Q47,0,,0,0,0,0,11,81.8,1,0,10,9,,True,None,Average ,0,,True,Damaging field equipment ,False,False,,
+4944,03-25-2022,JB,Q56,0,,0,0,0,0,6,33.3,0,0,6,2,Several balls shot out the wrong direction (away from goal),True,Unknown,Average ,0,,False,,False,False,,
+5493,03-25-2022,JB,Q3,1,0.0,1,0,0,0,5,80.0,0,0,5,4,A little shaky on intake ,True,None,Average ,0,No,True,"Sucked up 3 balls, 1 wrong color, but they didn't shoot it at the hub",False,False,,
+5493,03-25-2022,JB,Q7,0,,0,0,0,0,2,100.0,0,0,2,2,Have a hard time picking up and shooting ,False,None,Average ,0,,False,,False,False,,Tippy
+5493,03-25-2022,JB,Q15,0,,0,0,0,0,7,57.1,1,1,6,3,Shoots right against hub,True,High,Average ,0,,False,,False,False,,Go straight to HIGH bar on climb 
+5493,03-25-2022,JB,Q24,2,100.0,2,2,0,0,4,75.0,0,0,4,3,Slow cycle time. ,True,None,Average ,0,,False,,False,False,,Jerky and slow movement. 
+5493,03-25-2022,JB,Den Q34,0,,0,0,0,0,6,83.3,0,0,6,5,Takes a while to line up shots,False,None,Average ,0,,False,,False,False,,
+5493,03-25-2022,JB,Den Q41,0,,0,0,0,0,0,,0,0,0,0,,False,Unknown,Average ,0,,False,,False,False,,
+5493,03-25-2022,JB,Den Q41,0,,0,0,0,0,0,,0,0,0,0,,False,Unknown,Average ,0,,False,,False,False,,
+5493,03-25-2022,JB,Q52,0,,0,0,0,0,5,60.0,1,1,4,2,,True,None,Average ,0,,False,,False,False,,
+5690,03-19-2022,NG,mndu qf2-2,11,81.8,1,0,10,9,0,,0,0,0,0,,True,Mid,Average ,1,,False,,False,False,,Tippy. Always shot with their front bumper just outside the tarmac
+5690,03-19-2022,MN,2022mndu-Q-13,13,76.9,2,2,11,8,0,,0,0,0,0,Just outside tarmac. ,True,Low,Slow,1,N/A,False,N/A,False,False,Good accuracy. ,N/A
+5690,03-19-2022,NG,mndu sf1-1,7,57.1,2,1,5,3,0,,0,0,0,0,,True,Mid,Average ,4,,False,,False,False,,Shot from inside the tarmac tape a few times 
+5690,03-19-2022,MN,2022mndu-QF2,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown ,Unknown,1,,False,,False,False,,
+5690,03-19-2022,NG,mndu sf1-2,2,50.0,2,1,0,0,0,,0,0,0,0,,True,Mid,Average ,5,"Didn't try to shoot, only played defense ",False,,False,False,,
+5690,03-19-2022,NG,mndu sf1-3,3,66.7,2,1,1,1,0,,0,0,0,0,,True,None,Average ,4,Concentrated on defense ,False,,False,False,,
+5690,03-19-2022,NG,mndu q80,16,75.0,3,2,13,10,0,,0,0,0,0,Always shot with their front bumper just outside the tarmac,True,Mid,Average ,1,,False,,False,False,,"After shooting in auto, they drive to near the terminal and back to near the tarmac. In one match, they picked up a ball near the terminal and tried to shoot it, and missed"
+5690,03-19-2022,NG,mndu q72,0,,0,0,0,0,0,,0,0,0,0,,True,None,Average ,5,,False,,False,True,Shooter didn't work. Stalled once. Stopped moving with 40sec left,
+5690,03-20-2022,NG,mndu q64,14,64.3,2,1,12,8,0,,0,0,0,0,,True,None,Average ,1,,True,1 for holding a third ball,False,False,,
+5690,03-21-2022,NG,mndu q2,10,10.0,2,0,8,1,0,,0,0,0,0,,True,Mid,Slow,1,,False,,False,False,,They took a long time to line up to shoot. Shooting from just outside the tarmac tape.
+5690,03-21-2022,NG,mndu q13,13,76.9,2,2,11,8,0,,0,0,0,0,,True,Low,Average ,1,,False,,False,False,,
+5690,03-21-2022,NG,mndu q20,7,71.4,1,0,6,5,1,100.0,0,0,1,1,,True,None,Average ,5,"Played defense for half the game, then switched to shooting.",False,,False,False,"First ball in auto didn't go far. Picked up a second ball in auto, but didn't shoot it",
+5690,03-21-2022,NG,mndu q31,14,78.6,2,1,12,10,0,,0,0,0,0,,True,Mid,Slow,1,,False,,False,False,,They might have trouble getting over the power cord on the floor.
+5690,03-21-2022,NG,mndu q39,11,81.8,2,2,9,7,0,,0,0,0,0,,True,Mid,Slow,1,,False,,False,False,,
+5690,03-21-2022,NG,mndu q52,9,44.4,2,1,7,3,0,,0,0,0,0,,True,Mid,Slow,1,,True,I think they got 1 penalty. Not sure what for. ,False,False,,"They were heavily defended. Many times while they were lining up to shoot, they got pushed. Then they either didn't shoot or missed."
+5690,03-25-2022,NG,Q10,14,78.6,2,2,12,9,0,,0,0,0,0,,True,Mid,Slow,0,,False,,False,False,,Climb in last 5 sec
+5690,03-25-2022,NG,Q15,12,91.7,2,2,10,9,0,,0,0,0,0,,True,Low,Slow,0,,False,,False,False,,Bouncy. Slow to pick up balls.
+5690,03-25-2022,NG,Q25,3,66.7,1,0,2,2,0,,0,0,0,0,,True,Mid,Slow,1,They did a good job at blocking and were still able to shoot some balls,False,,False,False,,
+5690,03-25-2022,NG,Q42,0,,0,0,0,0,0,,0,0,0,0,,True,Mid,Slow,1,Physically preventing robots from shooting without pinning the ,False,,False,False,,
+5690,03-26-2022,NG,Q64,12,75.0,2,2,10,7,0,,0,0,0,0,,True,Mid,Slow,0,,True,See auto comments ,False,False,,
+5690,03-26-2022,NG,Q69,16,87.5,2,1,14,13,0,,0,0,0,0,Shots very bouncy,True,Low,Slow,0,,False,,False,False,,Tippy robot. Reliable shooter. Low hang seems robust and fast
+5763,03-25-2022,NG,Q17,0,,0,0,0,0,3,0.0,1,0,2,0,,True,Unknown,Slow,0,,False,,False,False,,
+5763,03-25-2022,NG,Q23,0,,0,0,0,0,3,0.0,0,0,3,0,,True,None,Slow,0,,False,,False,False,,
+5763,03-25-2022,NG,Q23,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Slow,0,,False,,False,False,,
+5763,03-25-2022,NG,Q33,0,,0,0,0,0,1,100.0,0,0,1,1,,True,None,Slow,0,,False,,False,False,,
+5763,03-25-2022,NG,Qr.44,0,,0,0,0,0,1,0.0,1,0,0,0,,True,None,Slow,0,,False,,False,False,,Tried to pick up balls
+5763,03-25-2022,NG,Q49,0,,0,0,0,0,4,0.0,0,0,4,0,Not really hub attempts. More like the ball falling out in the vicinity of the hub,True,None,Slow,0,,False,,False,False,,
+5763,03-26-2022,NG,Q66,0,,0,0,0,0,0,,0,0,0,0,,True,None,Slow,0,,False,,False,True,,Stayed in tarmac the whole match and did nothing the entire time.
+662,03-25-2022,NG,Q66,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Slow,0,,False,,False,False,,
+662,03-25-2022,NG,Q13,0,,0,0,0,0,5,100.0,1,1,4,4,,True,Mid,Slow,0,,False,,False,False,,
+662,03-25-2022,NG,Q23,0,,0,0,0,0,5,80.0,1,1,4,3,,False,Mid,Slow,0,,False,,False,False,,
+662,03-25-2022,NG,Q29,0,,0,0,0,0,3,66.7,1,0,2,2,,False,Mid,Slow,0,,False,,False,False,,Attempted to go high but ran out of time 
+662,03-25-2022,NG,Q37,0,,0,0,0,0,1,100.0,1,1,0,0,Looked like they had trouble picking up balls,False,None,Slow,0,,False,,False,False,,Went to hang on low bar with 1min left
+662,03-25-2022,NG,Q45,0,,0,0,0,0,0,,0,0,0,0,,False,Traversal,Slow,0,,False,,False,False,,
+662,03-25-2022,NG,Q50,0,,0,0,0,0,1,100.0,1,1,0,0,Maybe intake not working?,False,High,Slow,0,,False,,False,False,,Went to hang at 70sec
+662,03-25-2022,NG,Qr.57,0,,0,0,0,0,3,100.0,1,1,2,2,,True,High,Slow,0,,False,,False,False,,Started climb with 71 sec left
+662,03-26-2022,NG,Q67,1,0.0,0,0,1,0,1,0.0,0,0,1,0,,True,High,Slow,0,,False,,False,False,,Went on the bar earlier (58s) than all of the other robots. It also can't deliver cargo well.
+7243,03-25-2022,NG,Q4,0,,0,0,0,0,0,,0,0,0,0,,False,None,Slow,0,,False,,False,False,,Very little movement. No contribution to match
+7243,03-25-2022,NG,Q10,1,0.0,0,0,1,0,0,,0,0,0,0,Can intake very slowly. Shooter inaccurate,False,None,Slow,0,,False,,False,False,,Shoots balls into opposing hanger
+7243,03-25-2022,NG,Q14,0,,0,0,0,0,1,0.0,1,0,0,0,,False,None,Slow,0,Maybe. Hard to tell. I think they were just driving around for fun. ,False,,False,True,,Moved and spun around on the field. Stayed on the blue side. 
+7243,03-25-2022,NG,Q28,3,66.7,1,1,2,1,0,,0,0,0,0,,True,Mid,Slow,0,,False,,False,False,,
+7243,03-25-2022,NG,Qr.50,3,0.0,1,0,2,0,0,,0,0,0,0,,True,Mid,Slow,0,,False,,False,False,,Intake chain fell off
+7243,03-25-2022,NG,Q58,4,75.0,1,1,3,2,0,,0,0,0,0,,True,Mid,Slow,0,,False,,False,False,,
+7479,03-25-2022,NG,Q4,0,,0,0,0,0,1,100.0,0,0,1,1,Just shot preload. Seems to be having trouble with intake,True,None,Slow,0,,False,,False,False,,
+7479,03-25-2022,NG,Q10,0,,0,0,0,0,0,,0,0,0,0,,True,None,Slow,1,Didn't do well. Didn't move much,False,,False,False,,
+7479,03-25-2022,NG,Den Q17,0,,0,0,0,0,1,0.0,1,0,0,0,,True,Mid,Slow,1,Average defence though not that effective ,False,,False,False,,
+7479,03-25-2022,NG,Q23,1,0.0,1,0,0,0,1,0.0,0,0,1,0,,True,Mid,Slow,1,Not very well,False,,False,False,,
+7479,03-25-2022,NG,Qr.33,0,,0,0,0,0,1,0.0,0,0,1,0,,True,Unknown,Slow,1,The hit a few people,False,,True,True,Hit another robot to hard and got stopped,
+7479,03-25-2022,NG,Q38,0,,0,0,0,0,0,,0,0,0,0,,True,None,Slow,1,Pretty good at blocking shots and good at blocking robots trying to shoot,False,,False,False,,
+7479,03-26-2022,NG,68,0,,0,0,0,0,0,,0,0,0,0,,True,Mid,Slow,1,Can knock balls out of other robots if the ball compartment is not closed in. Can somewhat block robots from scoring (5s - 30s) ,False,,False,False,,Cant score but can defend.
+7485,03-25-2022,NG,Q5,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Slow,0,,False,,False,False,,Did nothing but climbed as soon as teleop started
+7485,03-25-2022,NG,Q11,1,0.0,1,0,0,0,0,,0,0,0,0,,True,None,Slow,0,,False,,False,False,,Went to hang right after auto. Hung on the mid bar. Tried to go for high and fell off
+7485,03-25-2022,NG,Den Q18,0,,0,0,0,0,0,,0,0,0,0,,False,Unknown,Slow,0,,False,,False,False,,
+7485,03-25-2022,NG,Qr. 25,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Slow,1,They tried,False,,False,False,,Doesn't have a shooter. Has climber meconiusm
+7485,03-25-2022,NG,Q29,1,0.0,1,0,0,0,0,,0,0,0,0,,True,None,Slow,0,,False,,True,True,,
+7485,03-25-2022,NG,Q29,0,,0,0,0,0,0,,0,0,0,0,,True,None,Slow,0,,False,,False,False,,Did nothing but creep over to the side of the field
+7485,03-25-2022,NG,Den Q39,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Slow,0,,False,,False,False,,Was disabled due to wrong color showing on bumper
+7485,03-25-2022,NG,Den Q52,0,,0,0,0,0,0,,0,0,0,0,,True,Mid,Slow,0,,False,,False,False,,Does not have a shooter
+7485,03-25-2022,NG,Q56,0,,0,0,0,0,0,,0,0,0,0,,True,Mid,Slow,0,,False,,False,False,,Robot has no shooter or intake
+7737,03-25-2022,NG,Q6,0,,0,0,0,0,0,,0,0,0,0,,False,Unknown,Slow,0,,True,See Autonomous comments...yellow card,False,False,,Sorry didn't watch them as I was watching us but thought I'd capture they got a yellow card in Autonomous.
+7737,03-25-2022,NG,Den Q10,0,,0,0,0,0,0,,0,0,0,0,,False,None,Slow,0,,False,,True,True,,Broke down
+7737,03-25-2022,NG,Q18,0,,0,0,0,0,0,,0,0,0,0,,False,None,Slow,0,,False,,True,True,,
+7737,03-25-2022,NG,Q26,0,,0,0,0,0,0,,0,0,0,0,,False,Unknown,Slow,0,,False,,False,False,,Didn't move entire match
+7737,03-25-2022,NG,Q32,0,,0,0,0,0,1,100.0,0,0,1,1,,False,Unknown,Slow,0,,False,,False,False,,
+7737,03-25-2022,NG,Q43,0,,0,0,0,0,0,,0,0,0,0,,False,None,Slow,0,,False,,False,False,,
+7737,03-26-2022,NG,Q72,0,,0,0,0,0,0,,0,0,0,0,Just defense.,True,None,Slow,1,"Can block robots, but its not really good at it.",False,,False,True,Can't control the robot that well.,
+8250,03-25-2022,NG,Q3,0,,0,0,0,0,1,0.0,0,0,1,0,,True,Mid,Slow,0,,False,,False,False,,
+8250,03-25-2022,NG,Q8,7,85.7,0,0,7,6,1,0.0,1,0,0,0,Shoot from up against the hub,True,Mid,Slow,0,,False,,False,False,,Hang at 30sec mark
+8250,03-25-2022,NG,Q16,8,50.0,0,0,8,4,1,100.0,1,1,0,0,Shoots high up against hub,True,Mid,Slow,0,,False,,False,False,,
+8250,03-25-2022,NG,Q25,6,50.0,0,0,6,3,1,0.0,1,0,0,0,Shoots upper from against hub,True,Mid,Slow,0,,False,,False,False,,
+8250,03-25-2022,NG,Qr.31,12,75.0,2,2,10,7,0,,0,0,0,0,,False,Mid,Slow,0,,False,,False,False,,
+8250,03-25-2022,NG,Q39,4,50.0,2,1,2,1,0,,0,0,0,0,,True,Mid,Slow,0,,False,,False,False,,
+8250,03-25-2022,NG,Den Q59,4,25.0,0,0,4,1,0,,0,0,0,0,,True,Mid,Slow,0,,False,,False,False,,
+8250,03-26-2022,NG,Q63,4,100.0,0,0,4,4,0,,0,0,0,0,,False,Mid,Slow,0,,False,,False,False,,
+8250,03-26-2022,NG,Q74,3,66.7,1,1,2,1,0,,0,0,0,0,,True,Mid,Slow,1,Moderately well. Bumped into their own alliance a couple times,False,,False,False,,
+8283,03-25-2022,NG,Den Q7,0,,0,0,0,0,0,,0,0,0,0,,True,None,Slow,0,,False,,True,True,,Broke down and stopped moving.
+8283,03-25-2022,NG,"Q12, Q16",0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Slow,1,Just pushed balls around,False,,False,False,,Shooter is broken
+8283,03-25-2022,NG,Q25,0,,0,0,0,0,0,,0,0,0,0,Intake was lifted up for the entire match. ,True,None,Slow,1,They only played a little bit of defense cpnsidering how they did not shoot anything. ,False,,False,True,Stood still for a large portion of match. ,
+8283,03-25-2022,NG,Q31,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Slow,0,,False,,False,False,,
+8283,03-25-2022,NG,Q35,0,,0,0,0,0,0,,0,0,0,0,,True,None,Slow,0,Maybe they were. Hard to tell. Maybe they were just creeping around the field ,False,,False,True,,
+8283,03-25-2022,NG,Q48,0,,0,0,0,0,0,,0,0,0,0,,True,Unknown,Slow,0,,False,,True,False,,
+8283,03-25-2022,NG,Q58,0,,0,0,0,0,3,100.0,1,1,2,2,,True,Unknown,Slow,1, grab the other color balls and move them further away from the hub,False,,False,False,,
+8334,03-25-2022,NG,Q9,8,50.0,1,1,7,3,0,,0,0,0,0,Shoot from inside the tarmac,True,None,Slow,0,,False,,False,False,,
+8334,03-25-2022,NG,Q14,0,,0,0,0,0,9,33.3,0,0,9,3,"Looked like they may have been aiming for high goal, but balls only went in low",True,Unknown,Slow,0,No,False,,False,False,,Just drove around at end. No attempt to approach hanger
+8334,03-25-2022,NG,Qr.28,4,75.0,1,1,3,2,0,,0,0,0,0,,True,None,Slow,0,,False,,False,False,,
+8334,03-25-2022,NG,Den Q35,7,71.4,1,1,6,4,0,,0,0,0,0,,True,None,Slow,0,,False,,False,False,,

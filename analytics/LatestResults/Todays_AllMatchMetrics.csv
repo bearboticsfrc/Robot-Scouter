@@ -1,0 +1,37 @@
+Team,Timestamp,Name,Match,Upper Attempts,Upper % Made,AUTO Upper Attempts,AUTO Upper Made,TELEOP Upper Attempts,TELEOP Upper Made,Lower Attempts,Lower % Made,AUTO Lower Attempts,AUTO Lower Made,TELEOP Lower Attempts,TELEOP Lower Made,TELEOP Cargo Shooting Comments,AUTO Taxied,END GAME Climb Rung,TELEOP Speed Rating,DEFENSE Rating,DEFENSE Comments,PENALTIES Incurred,PENALTIES Comments,RELIABILITY Robot Broke,RELIABILITY Robot Stalled,RELIABILITY Comments,Additional Comments
+1977,03-26-2022,CM,Qr.62,2,0.0,2,0,0,0,2,100.0,0,0,2,2,,True,Mid,Unknown,0,,False,,False,True,,
+1332,03-26-2022,,Q74,0,,0,0,0,0,6,83.3,0,0,6,5,,True,Unknown,,0,,False,,False,False,,
+1619,03-26-2022,CM,Q74,20,85.0,3,1,17,16,0,,0,0,0,0,,True,Traversal,Unknown,0,,False,,False,False,,
+3200,03-26-2022,NG,Q74,7,100.0,1,1,6,6,0,,0,0,0,0,,True,Low,Average ,0,,False,,False,False,,
+8250,03-26-2022,NG,Q74,3,66.7,1,1,2,1,0,,0,0,0,0,,True,Mid,Slow,1,Moderately well. Bumped into their own alliance a couple times,False,,False,False,,
+2996,03-26-2022,JB,Q73,11,54.5,1,1,10,5,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,
+1339,03-26-2022,JB,Q72,19,78.9,4,2,15,13,0,,0,0,0,0,,True,None,Average ,0,,False,,False,False,,"Blocked out of hangar, kept shooting"
+159,03-26-2022,MM,Q72,6,0.0,2,0,4,0,0,,0,0,0,0,Slow intake. Inaccurate shooter ,True,Traversal,Average ,0,,False,,False,False,,"Traversal climb good, not great shooter"
+4499,03-26-2022,MH,Q72,6,50.0,1,0,5,3,0,,0,0,0,0,,True,Mid,Fast,0,,False,,False,False,,
+7737,03-26-2022,NG,Q72,0,,0,0,0,0,0,,0,0,0,0,Just defense.,True,None,Slow,1,"Can block robots, but its not really good at it.",False,,False,True,Can't control the robot that well.,
+1410,03-26-2022,CP,Q71,0,,0,0,0,0,7,100.0,1,1,6,6,Fast intake and can shoot lower hub incredibly well.,True,Traversal,Fast,0,,False,,False,False,,Goes into bar earlier but gets to the traversal level really quick.
+3374,03-26-2022,NG,Q71,18,83.3,3,3,15,12,0,,0,0,0,0,Intake is fast. Shooter pretty consistent ,True,Mid,Fast,0,,False,,False,False,,Driver did a good job avoiding defensive bots. Good use of time. Mid climb was fast
+4593,03-26-2022,JB,Q71,14,78.6,2,2,12,9,0,,0,0,0,0,,True,Mid,Average ,0,,False,,False,False,,
+3729,03-26-2022,NG,Q70,9,33.3,2,1,7,2,0,,0,0,0,0,1st shot on upper hub misses usually. Intake is fast and effective,True,Traversal,Fast,0,,True,Held red cargo ,False,False,,Traversal climb looked solid. Very little swing 
+4293,03-26-2022,CP,Q70,0,,0,0,0,0,8,37.5,1,1,7,2,,True,Traversal,Unknown,0,,False,,False,False,,Went to the bar earlier (53s) and started hanging at 43s. Very fast and go for the lower hub.
+4388,03-26-2022,CP,Q70,14,50.0,1,1,13,6,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,Worked much better this match
+4418,03-26-2022,CM,Q70,0,,0,0,0,0,8,100.0,0,0,8,8,,True,Mid,Unknown,0,,False,,False,False,,
+1011,03-26-2022,,Q69,0,,0,0,0,0,4,75.0,2,1,2,2,,True,None,,0,,False,,False,False,Balls cam fall out when going across the map.,Its fast and can shoot lower hub.
+5690,03-26-2022,NG,Q69,16,87.5,2,1,14,13,0,,0,0,0,0,Shots very bouncy,True,Low,Slow,0,,False,,False,False,,Tippy robot. Reliable shooter. Low hang seems robust and fast
+1332,03-26-2022,,Q68,0,,0,0,0,0,3,100.0,0,0,3,3,,True,None,,0,,False,,False,False,,
+159,03-26-2022,MM,Q68,4,0.0,0,0,4,0,0,,0,0,0,0,,True,Traversal,Average ,0,,False,,False,False,,Hang at 45sec
+7479,03-26-2022,NG,Q68,0,,0,0,0,0,0,,0,0,0,0,,True,Mid,Slow,1,Can knock balls out of other robots if the ball compartment is not closed in. Can somewhat block robots from scoring (5s - 30s) ,False,,False,False,,Cant score but can defend.
+3200,03-26-2022,NG,Q67,6,0.0,0,0,6,0,0,,0,0,0,0,Shooter shoots short for high. Intake works well. Possible low hub strategy. Sits for a long time before shooting,True,None,Average ,0,,False,,False,False,,Tried to hang but not enough time 
+4499,03-26-2022,MH,Q67,7,71.4,2,1,5,4,0,,0,0,0,0,,True,Mid,Fast,0,,False,,False,False,,
+662,03-26-2022,NG,Q67,1,0.0,0,0,1,0,1,0.0,0,0,1,0,,True,High,Slow,0,,False,,False,False,,Went on the bar earlier (58s) than all of the other robots. It also can't deliver cargo well.
+1619,03-26-2022,CM,Q66,19,78.9,3,2,16,13,0,,0,0,0,0,,True,Mid,Unknown,0,,False,,False,False,,
+5763,03-26-2022,NG,Q66,0,,0,0,0,0,0,,0,0,0,0,,True,None,Slow,0,,False,,False,True,,Stayed in tarmac the whole match and did nothing the entire time.
+3729,03-26-2022,NG,Q65,7,85.7,2,2,5,4,0,,0,0,0,0,,True,Mid,Fast,0,,False,,False,False,,
+3374,03-26-2022,NG,Q64,11,54.5,2,2,9,4,0,,0,0,0,0,,True,High,Fast,0,,False,,False,False,,
+4386,03-26-2022,CP,Q64,6,50.0,1,1,5,2,0,,0,0,0,0,,True,None,Unknown,0,,False,,False,False,,No automatic aiming system. Bad manual aiming. Only could properly aim when no one was interfering.
+4418,03-26-2022,CM,Q64,0,,0,0,0,0,12,83.3,2,2,10,8,Consist low shooter. Intake is a bit slow,True,None,Unknown,0,,False,,False,False,,"Tried to hang mid looks like, ran out of time"
+5690,03-26-2022,NG,Q64,12,75.0,2,2,10,7,0,,0,0,0,0,,True,Mid,Slow,0,,True,See auto comments ,False,False,,
+4388,03-26-2022,CP,Q63,1,100.0,1,1,0,0,0,,0,0,0,0,Intake doesn't work well,False,None,Unknown,0,,False,,False,True,,Moved. Stopped. Moved very little. Stopped. 
+8250,03-26-2022,NG,Q63,4,100.0,0,0,4,4,0,,0,0,0,0,,False,Mid,Slow,0,,False,,False,False,,
+1339,03-26-2022,JB,Q62,13,100.0,4,4,9,9,0,,0,0,0,0,,True,None,Average ,0,,True,Holding 3 balls,False,False,,Fell of high bar. Bent climber arm. 
+4550,03-26-2022,NG,Q57,1,0.0,1,0,0,0,0,,0,0,0,0,,True,Traversal,Average ,1,Good job,False,,False,False,,

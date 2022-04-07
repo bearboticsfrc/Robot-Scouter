@@ -1,0 +1,4764 @@
+{
+  "teams": {
+    "159": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648137995541,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MN",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "3-Shoot + Taxi only (1 Cargo)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "High",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Cycle time to shoot was long. ",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 2",
+        "timestamp": 1648155273404,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG KG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "1-Taxi only",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Didn't quite leave tarmac",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Attempts take long time, don't stay in\nBall fell out of the intake a couple times.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Fast climb, dropped down, then went back up",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Didn't this match",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "KG_Stopped part way( battery fell out)",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "662": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648139296799,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "Meh NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Claimed. Not tested",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Untested",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Traversal ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Untested. More than 1 minute\nNG-fell off going from mid to high bar",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": true,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Sturdy. Top heavy. Intake not outside FP",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 2",
+        "timestamp": 1648222642744,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MH",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "3-Shoot + Taxi only (1 Cargo)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Missed",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Q5. Not good on Intake. Not Intake extension. Died mid match",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 3",
+        "timestamp": 1648222657798,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": null,
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": false,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "1011": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648139654087,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "Meh",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Last minute construction in pit",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "1245": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648148581693,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG MEH",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Omni/Mecanum",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "1-Taxi only",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "They got stuck on another robot during auto. (MEH) They say 2 Cargo but haven't tested.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Went in after the 30sec mark. Barely got off the ground. They weren't level when trying to climb. ",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Slow moving",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 2",
+        "timestamp": 1648220568196,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MH",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "3-Shoot + Taxi only (1 Cargo)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Manual aim only",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Not attempted in Q1",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Their intake is not efficient and could cause penalties",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "1303": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648150310295,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG MEH",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Omni/Mecanum",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Didn't move.  (MEH) Having problems passing inspection",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "1332": [
+      {
+        "name": "Prac-DNV",
+        "timestamp": 1648153083389,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "CM MM NG MEH",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "1-Taxi only",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Not sure they went far enough. (MEH) They say 1 Cargo shoot and taxi. They claim 18 with light defense.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Shoots from right up against hub\nNG - shooting from a little bit back from the hub, inside the tarmac tape",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "(MEH) 8 motors on chassis. 90 lbs. Very fast. Control may be a problem.",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Surprisingly fast for a screw drive",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": true,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "1339": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1647496911529,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "JB MEH NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Swerve ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "5-More than 2 Cargo combination",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "(NG) Saw 2 ball auto. Didn't shoot 2nd ball until after Autonomous.\n\n4 Ball. They do have a 4 cargo auto but their timing is close on whether the last two make it during Autonomous period.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Must shoot from the base of the hub.\n\n(NG) For every two balls shot one bounces out.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Traversal ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Takes a awhile to get there(20-30 seconds). Driving for alignment needs improvement.\n\n(NG) Started too late and only made to high bar.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": true,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Did incur penalties. Was able to bump an opponent so they missed shots.\n(MEH) No. Top heavy.",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "(MEH) Faster",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "1410": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138723526,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "Meh",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Traversal ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "35 sec",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": true,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "1619": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1647470571192,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "JB",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Swerve ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "5-More than 2 Cargo combination",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Setup on the opposite side as the hangar in their Alliance's tarmac.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "They like the launchpad when heavily defended.  Otherwise typically just outside the tarmac.  They go to the opposite side of the field to gather cargo.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Traversal ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "15 sec climb. They go into the Hangar with 30 seconds remaining.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Never seen them play defense.",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 1",
+        "timestamp": 1648151449404,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Swerve ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "5-More than 2 Cargo combination",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Shoot preloaded. Pick up and shoot 2. Pickup and shoot  ball by terminal and human player ball. I think 2 went in",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "A little more than half of balls go in.  Intake is not reliable in PM 29.  They were chasing balls down after hitting them.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Didn't try to climb",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "1799": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138087157,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG MM JB",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "0-No movement ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "(JB) Taxied on PM 23. ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Low",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Not successful. Extended to climb far outside of the hangar area but they were probably in the height limit.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Slow. Intake is poor. \n\nFell over at start of teleop\n\n(JB) Tipped over in PM 23 at beginning of teleop.",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "1977": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648137462836,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "Meh\n",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Upper Hub",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Anywhere",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Upper priority",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Quick",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": true,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "75 lbs",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "1st event. Doesn't look rugged or reliable\n",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138100138,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "1-Taxi only",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Looked like they were trying to shoot",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Didn't get hooked on the bar, looked like they were trying to get on mod",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Slow. Most shots were single balls.",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "2036": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648152708808,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG JB",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "0-No movement ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Didn't move. Took awhile to start moving after teleop started",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Intake not great. Average speed. ",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "None",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Did not attempt in PM 26.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Slow\n\n(JB) Jerky movements.  Two bars stick out from frame perimeter that could cause penalties if get within another bot's frame perimeter.",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "2083": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648150416042,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MN-JB",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "0-No movement ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "(JB) Not sure what they were trying for upper or lower.  In between. Very hard time intaking balls.  Unable to shoot two at a time and looks like second ball gets stuck.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "(JB) Went early.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Broke down for entire match. (JB) Very slow drivers.  ",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Prac 15",
+        "timestamp": 1648154231240,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "CM NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Swerve ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "3-Shoot + Taxi only (1 Cargo)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Tried to pick up a second ball.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Intake wasn't working well.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Didn't do much this match.  ",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "2240": [
+      {
+        "name": "Pit Azfl",
+        "timestamp": 1648008464160,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG MM",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Usually miss the high hub. Not always successful picking up the second ball. ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Anywhere",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Usually can get one ball into the top, second often misses",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Their climber is built to go higher. Didn't successfully make it to the high bar. Not reliable on getting on the mid bar. ",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": true,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Blocking. Not fast enough to block swerve robots.",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "They were having trouble scoring in the high hub. Switched to the low hub with better accuracy. Last two Q matches, played defense. ",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "2486": [
+      {
+        "name": "Pit Azfl",
+        "timestamp": 1648004916129,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Swerve ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Don't always pick up the second cargo. The balls don't go in very often.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Low",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Trying to climb on the mid bar, but couldn't hold it after the buzzer. ",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Seem to have more consistent scoring when only shooting one ball. Their targeting isn't consistent. A couple matches were really good, a couple matches were really bad. Fast with pickup and shooting, so quantity of tries is high when the robot is working. ",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 2",
+        "timestamp": 1648150804838,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Swerve ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Trying to pick up and shoot a third ball from the terminal.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Half of shots went in.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Didn't try to climb",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Fast",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "2945": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1647742305729,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG MM",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Omni/Mecanum",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "3-Shoot + Taxi only (1 Cargo)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Left tarmac",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Didn't make any successful shots",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Usually go in to climb with 30sec left.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": true,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Not very effective ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Can shoot from long ranges, just not always very affective",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 2",
+        "timestamp": 1648221278462,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MH",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": false,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Shot 2, made 1",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Misses most shots",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Tried Low bar, but missed",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Q2. ",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "2972": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138142633,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MH",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "0-No movement ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Did not attempt one shot in Q1",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Did not try to climb",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Observed in Q1",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "2996": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1647493034021,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "JB",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "3-Shoot + Taxi only (1 Cargo)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "They have to be against the base of the hub to shoot as their shot goes straight up.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Not fluid in their driving.  At times looked like they were going to top over with their own stop and go in driving.   Was easily pushed be a defender.",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Prac - DNV",
+        "timestamp": 1648151060256,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "CM-MM",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "2-Shoot preloaded cargo only",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Shoots close to hub",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "None",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "3200": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1647919021307,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "3-Shoot + Taxi only (1 Cargo)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Shooter wasn't working at the beginning of the competition. Once they got it working, they were most likely to make a shot from far away. After they started getting defended, they started shooting from the corner of the hangar.",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 2",
+        "timestamp": 1648137796024,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "Meh",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "More accurate. Faster cycles",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "No",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "3374": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1647741329171,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Shoot close to the tarmac tape.\nCan easily get rid of a wrong color ball.",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 2",
+        "timestamp": 1648138211840,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "Meh",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "5-More than 2 Cargo combination",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "4 ball auto",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "15-18 balls. Turret",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Traversal ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "20 sec. Upgraded to Traversal",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": true,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Not really",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "3648": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138168338,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "0-No movement ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Trying to move",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Intake is slow. Targeting is extremely slow. Picked up 4 balls. Only shot 2.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "The hang bar extends slowly. Got impatient and tried to hook the bar before it was extended.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Average speed for moving around the field. Very tippy ",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "3729": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138190031,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MM JB",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Shots were good.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "10/14 on Upper. Includes 2 in autonomous.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Took a long time to get to Mid rung when they even started at 30 seconds left.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "4293": [
+      {
+        "name": "Prac-DNV",
+        "timestamp": 1648149641111,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "CM NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "3-Shoot + Taxi only (1 Cargo)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "NG - Not all shots go in",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Traversal ",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Good amount of cargo successfully shot into lower hub",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "4386": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138210101,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MN-JB",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "1-Taxi only",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "No movement ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Never shot in P14. Inexperienced drivers.  Robot is tips back-n-forth when driving.\n\n(MEH) Very few shots in match 19. Appear to be Upper capable",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "None",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Never tried.\n\n(MEH) Did not climb in PM19",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Robot has trouble with shooting. Intake not good and feeder to shoot.",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 2",
+        "timestamp": 1648221538158,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MH",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "1-Taxi only",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Only shot 8, made 4-5",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Did not climb",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Q2",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "4388": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138219921,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MN NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Swerve ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "0-No movement ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Anywhere",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "NG - Not targeting either hub well",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "None",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "NG - Didn't try",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Did not move a lot during the match. \nNG - stalled for first 30sec, then were able to move around. But slow with moving, pickup, and shooting.",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "4418": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1647796733933,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Shoot low, then taxi to pick up another ball, then come back against the hub to shoot that ball. In some matches they didn't get points for the taxi. Not sure why. ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Typically shoot from up against the hub.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "None",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Trying to climb to the mid bar, but they get stuck.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Prac-DNV",
+        "timestamp": 1648150417591,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "CM",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": false,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Left tarmac",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Touching hub",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "4499": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1647492849233,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "JB",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Swerve ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "5-More than 2 Cargo combination",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Opposite side of the hangar",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Never say them shoot for the lower hub.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Intake is good.  Not great but good. They like to shoot from the tarmac nearest their launchpad and in the middle of the long wall.",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 1",
+        "timestamp": 1648149751576,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Swerve ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "5-More than 2 Cargo combination",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Shot 1, picked up and shot 2, tried to pick up the ball over by the terminal and missed. Got in position to shoot that ball.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Shooting from close to the tarmac tape to inside the tarmac .",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Didn't complete mid bar climb",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Fast intake. Take time to line up to shoot.\n\nVery reliable shooter. Smooth performance. (MM)\nNG - green lights mean they are shooting",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "4550": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1647793791192,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "3-Shoot + Taxi only (1 Cargo)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Changed their auto routine to shoot into the low hub partway through quals.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Did not pick up or shoot at all during teleop in AZ.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Traversal ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Enter hangar at 30sec. Have to enter the hangar from the side, they are too tall to go under the low bar.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": true,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Good at blocking. Never got penalties (except for that one time :). Not as mobile, so they have trouble blocking swerve robots. ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "In the first couple qual matches their robot stopped working. Very bouncy and tippy when stopping.",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 2",
+        "timestamp": 1648140527755,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "Meh NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Anywhere",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "High is new",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Traversal ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "15 s\nNG - hard fall from the high bar.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": true,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Their preference",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 3",
+        "timestamp": 1648155862827,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "CM",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": false,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Made high shot, backed away from tarmac",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Missed some, made most. Shoots from close to hub but not right up against it",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "High",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Mid to high. Fell attempting traverse",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Didn't this match",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "4593": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648140356520,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "Meh JB",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "(JB) Missed both",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "9/14 made. Was able to reject opponent's ball but took time.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "High",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "10 s for Mid; 25 for High.  SWINGS alot on one arm!",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Prefer not too",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "4944": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138250106,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MN NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "NG - Intake is poor. Delivery of balls to lower hub is fast and usually doesn't miss. ",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "NG - They have the ability to climb higher.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "They shoot by lifting and then pushing the balls into the lower hub. (Quite slow)",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "5493": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138267606,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "0-No movement ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Super slow",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "5690": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1647743278733,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Looked like they were working on picking up a third ball from the terminal and shooting it during auto. ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": true,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "Did well in finals when playing defense ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "It takes them awhile to line up to shoot. They always shoot from just outside the tarmac tape. It looks like they have trouble moving around when they are near the power cord on the floor. They don't do well when they have defense against them. ",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 1",
+        "timestamp": 1648149197494,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "3-Shoot + Taxi only (1 Cargo)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Drove around a lot in auto. Probably trying to pick up more balls",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "About half their shots went in",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Low",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Fast. Climbed in the last 5sec",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Tippy when stopping or changing direction.",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Prac-Denver",
+        "timestamp": 1648149299188,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "CM-JB",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "5-More than 2 Cargo combination",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "(JB) Goes back to Terminal to get balls",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": "(CM) Didn't ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "(JB) PM20 they bumped us in transition from High to Traversal.  In PM24 they were having a hard time lining up when their partner was already on the Mid bar.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "(CM) Low rung climb this match",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "5763": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138285132,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": null,
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "7243": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138294882,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MN JB",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Swerve ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "0-No movement ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "(JB) Spun in place, no taxi in PM 25.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "(JB) Limelight having problems.  Didn't see them make a shot in PM 25.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "None",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "(JB) Wasn't able to line up PM 25.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "(MN) Stopped working during teleop. ",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "7479": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138316166,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": false,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "1-Taxi only",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Didn't make it off the tarmac",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Lower Hub only ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Pick up balls from the terminal in a box and dump it in the lower hub. Need to be up against the hub",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Didn't try",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Slow",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      },
+      {
+        "name": "Pit 2",
+        "timestamp": 1648153552995,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": null,
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": false,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "7485": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138331700,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "DD",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": false,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Nowhere",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "No shooter or intake as of Q56",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "7737": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138352073,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": null,
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "8250": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138361744,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MM NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Standard 6/8 wheel",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "4-Shoot + Taxi + Intake (2 Cargo max)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Left tarmac\nNG - neither shot went in. Second time got stuck with a ball in the intake on the field wall.",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Not very reliable shooter\nNG - not successful with any shots",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Mid",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "NG - Slow to extend climber arms.",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "8283": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138370398,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": null,
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Unknown ",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "Unknown ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": null,
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "Unknown ",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ],
+    "8334": [
+      {
+        "name": "Pit 1",
+        "timestamp": 1648138378986,
+        "metrics": {
+          "ECIgrKJfMO8I2E8Lsovh": {
+            "type": "text",
+            "name": "Name",
+            "value": "MM NG",
+            "category": "SCOUT "
+          },
+          "ONV3DyLTXyEeLzuZZnQs": {
+            "type": "boolean",
+            "name": "Do they have a floor intake?",
+            "value": true,
+            "category": "HARDWARE "
+          },
+          "TvyFAXJuHxPsW26qxSXm": {
+            "type": "list",
+            "name": "What's their Drivetrain?",
+            "value": "Omni/Mecanum",
+            "category": "HARDWARE "
+          },
+          "ImxowXvvNc0k4foZnkC2": {
+            "type": "list",
+            "name": "What is their most sophisticated, working autonomous?",
+            "value": "3-Shoot + Taxi only (1 Cargo)",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "RdwMEdp9hqmT2nF50pn8": {
+            "type": "text",
+            "name": "If Other or more details on Autonomous like position preference, specify.",
+            "value": "Drove backwards, didnt score ",
+            "category": "AUTONOMOUS STRATEGY "
+          },
+          "zQCQI1X0XFbAdupCuZhm": {
+            "type": "list",
+            "name": "Where do they shoot Cargo?",
+            "value": "Upper Hub only",
+            "category": "TELEOP STRATEGY "
+          },
+          "ZKt8i4uYZsEAus75zJ7o": {
+            "type": "text",
+            "name": "If Other, please specify.",
+            "value": "Didnt do much. Only collected one ball at a time.",
+            "category": "TELEOP STRATEGY "
+          },
+          "tlJnSqtvEgakktTXBgkW": {
+            "type": "list",
+            "name": "What is the highest rung they can climb?",
+            "value": "None",
+            "category": "TELEOP STRATEGY "
+          },
+          "DNmVOXCuMUKHvU6BzLMV": {
+            "type": "text",
+            "name": "Notes regarding climb such as timing or position.",
+            "value": "Doesnt seem to have a climber/ working climber",
+            "category": "TELEOP STRATEGY "
+          },
+          "LY1pu680oPokOpJNI4q3": {
+            "type": "boolean",
+            "name": "Do they play defense?",
+            "value": false,
+            "category": "TELEOP STRATEGY "
+          },
+          "MJIMd2Nj0Cf9zPEzsRYh": {
+            "type": "text",
+            "name": "How do they intend to play defense?",
+            "value": null,
+            "category": "TELEOP STRATEGY "
+          },
+          "ry5Q83c1ty8QyWcoQKsI": {
+            "type": "text",
+            "name": "Additional Notes",
+            "value": "Average movement speed, doesnt do much during matches.\nNG - seemed to like driving and spinning around fast",
+            "category": "TELEOP STRATEGY "
+          }
+        }
+      }
+    ]
+  }
+}

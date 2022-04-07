@@ -1,0 +1,92 @@
+Team,Timestamp,Scout,HARDWARE Floor Intake,HARDWARE Drivetrain,AUTO Level,AUTO Strategy Comments,TELEOP Where They Shoot,TELEOP Strategy Comments,END GAME Highest Climb,END GAME Climb Comments,DEFENSE Shown,DEFENSE Comments,Additional Notes
+1011,03-24-2022,Meh,True,Standard 6/8 wheel,Unknown ,,Unknown ,,Unknown ,,False,,Last minute construction in pit
+1245,03-24-2022,NG MEH,True,Omni/Mecanum,1-Taxi only,They got stuck on another robot during auto. (MEH) They say 2 Cargo but haven't tested.,Upper Hub only,,Mid,Went in after the 30sec mark. Barely got off the ground. They weren't level when trying to climb. ,False,,Slow moving
+1245,03-25-2022,MH,True,Unknown ,3-Shoot + Taxi only (1 Cargo),,Upper Hub only,Manual aim only,Mid,Not attempted in Q1,False,,Their intake is not efficient and could cause penalties
+1303,03-24-2022,NG MEH,True,Omni/Mecanum,Unknown ,,Upper Hub only,,Mid,,False,,Didn't move.  (MEH) Having problems passing inspection
+1332,03-24-2022,CM MM NG MEH,True,Standard 6/8 wheel,1-Taxi only,Not sure they went far enough. (MEH) They say 1 Cargo shoot and taxi. They claim 18 with light defense.,Lower Hub only ,"Shoots from right up against hub
+NG - shooting from a little bit back from the hub, inside the tarmac tape",Mid,Surprisingly fast for a screw drive,True,(MEH) 8 motors on chassis. 90 lbs. Very fast. Control may be a problem.,
+1339,03-17-2022,JB MEH NG,True,Swerve ,5-More than 2 Cargo combination,"(NG) Saw 2 ball auto. Didn't shoot 2nd ball until after Autonomous.
+
+4 Ball. They do have a 4 cargo auto but their timing is close on whether the last two make it during Autonomous period.",Upper Hub only,"Must shoot from the base of the hub.
+
+(NG) For every two balls shot one bounces out.",Traversal ,"Takes a awhile to get there(20-30 seconds). Driving for alignment needs improvement.
+
+(NG) Started too late and only made to high bar.",True,"Did incur penalties. Was able to bump an opponent so they missed shots.
+(MEH) No. Top heavy.",(MEH) Faster
+1410,03-24-2022,Meh,True,Standard 6/8 wheel,4-Shoot + Taxi + Intake (2 Cargo max),,Lower Hub only ,,Traversal ,35 sec,True,,
+159,03-24-2022,MN,True,Standard 6/8 wheel,3-Shoot + Taxi only (1 Cargo),,Upper Hub only,,High,,False,,Cycle time to shoot was long. 
+159,03-24-2022,NG KG,True,Standard 6/8 wheel,1-Taxi only,Didn't quite leave tarmac,Upper Hub only,"Attempts take long time, don't stay in
+Ball fell out of the intake a couple times.",Mid,"Fast climb, dropped down, then went back up",False,Didn't this match,KG_Stopped part way( battery fell out)
+1619,03-16-2022,JB,True,Swerve ,5-More than 2 Cargo combination,Setup on the opposite side as the hangar in their Alliance's tarmac.,Upper Hub only,They like the launchpad when heavily defended.  Otherwise typically just outside the tarmac.  They go to the opposite side of the field to gather cargo.,Traversal ,15 sec climb. They go into the Hangar with 30 seconds remaining.,False,Never seen them play defense.,
+1619,03-24-2022,NG,True,Swerve ,5-More than 2 Cargo combination,Shoot preloaded. Pick up and shoot 2. Pickup and shoot  ball by terminal and human player ball. I think 2 went in,Upper Hub only,A little more than half of balls go in.  Intake is not reliable in PM 29.  They were chasing balls down after hitting them.,Unknown ,Didn't try to climb,False,,
+1799,03-24-2022,NG MM JB,True,Standard 6/8 wheel,0-No movement ,(JB) Taxied on PM 23. ,Lower Hub only ,,Low,Not successful. Extended to climb far outside of the hangar area but they were probably in the height limit.,False,,"Slow. Intake is poor. 
+
+Fell over at start of teleop
+
+(JB) Tipped over in PM 23 at beginning of teleop."
+1977,03-24-2022,"Meh
+",True,Standard 6/8 wheel,4-Shoot + Taxi + Intake (2 Cargo max),Upper Hub,Anywhere,Upper priority,Mid,Quick,True,75 lbs,"1st event. Doesn't look rugged or reliable
+"
+1977,03-24-2022,NG,True,Standard 6/8 wheel,1-Taxi only,Looked like they were trying to shoot,Upper Hub only,,Mid,"Didn't get hooked on the bar, looked like they were trying to get on mod",False,,Slow. Most shots were single balls.
+2036,03-24-2022,NG JB,True,Standard 6/8 wheel,0-No movement ,Didn't move. Took awhile to start moving after teleop started,Upper Hub only,Intake not great. Average speed. ,None,Did not attempt in PM 26.,False,,"Slow
+
+(JB) Jerky movements.  Two bars stick out from frame perimeter that could cause penalties if get within another bot's frame perimeter."
+2083,03-24-2022,MN-JB,True,Standard 6/8 wheel,0-No movement ,,Unknown ,(JB) Not sure what they were trying for upper or lower.  In between. Very hard time intaking balls.  Unable to shoot two at a time and looks like second ball gets stuck.,Mid,(JB) Went early.,False,,Broke down for entire match. (JB) Very slow drivers.  
+2083,03-24-2022,CM NG,True,Swerve ,3-Shoot + Taxi only (1 Cargo),Tried to pick up a second ball.,Lower Hub only ,Intake wasn't working well.,Mid,,False,,Didn't do much this match.  
+2240,03-23-2022,NG MM,True,Unknown ,4-Shoot + Taxi + Intake (2 Cargo max),Usually miss the high hub. Not always successful picking up the second ball. ,Anywhere,"Usually can get one ball into the top, second often misses",Mid,Their climber is built to go higher. Didn't successfully make it to the high bar. Not reliable on getting on the mid bar. ,True,Blocking. Not fast enough to block swerve robots.,"They were having trouble scoring in the high hub. Switched to the low hub with better accuracy. Last two Q matches, played defense. "
+2486,03-23-2022,NG,True,Swerve ,Unknown ,Don't always pick up the second cargo. The balls don't go in very often.,Upper Hub only,,Low,"Trying to climb on the mid bar, but couldn't hold it after the buzzer. ",False,,"Seem to have more consistent scoring when only shooting one ball. Their targeting isn't consistent. A couple matches were really good, a couple matches were really bad. Fast with pickup and shooting, so quantity of tries is high when the robot is working. "
+2486,03-24-2022,NG,True,Swerve ,4-Shoot + Taxi + Intake (2 Cargo max),Trying to pick up and shoot a third ball from the terminal.,Upper Hub only,Half of shots went in.,Unknown ,Didn't try to climb,False,,Fast
+2945,03-20-2022,NG MM,True,Omni/Mecanum,3-Shoot + Taxi only (1 Cargo),Left tarmac,Upper Hub only,Didn't make any successful shots,Mid,Usually go in to climb with 30sec left.,True,Not very effective ,"Can shoot from long ranges, just not always very affective"
+2945,03-25-2022,MH,False,Unknown ,4-Shoot + Taxi + Intake (2 Cargo max),"Shot 2, made 1",Upper Hub only,Misses most shots,Mid,"Tried Low bar, but missed",False,,Q2. 
+2972,03-24-2022,MH,True,Standard 6/8 wheel,0-No movement ,,Unknown ,Did not attempt one shot in Q1,Unknown ,Did not try to climb,False,,Observed in Q1
+2996,03-17-2022,JB,True,Standard 6/8 wheel,3-Shoot + Taxi only (1 Cargo),,Upper Hub only,They have to be against the base of the hub to shoot as their shot goes straight up.,Mid,,False,,Not fluid in their driving.  At times looked like they were going to top over with their own stop and go in driving.   Was easily pushed be a defender.
+2996,03-24-2022,CM-MM,True,Unknown ,2-Shoot preloaded cargo only,,Upper Hub only,Shoots close to hub,None,,False,,
+3200,03-22-2022,NG,True,Unknown ,3-Shoot + Taxi only (1 Cargo),,Upper Hub only,,Mid,,False,,"Shooter wasn't working at the beginning of the competition. Once they got it working, they were most likely to make a shot from far away. After they started getting defended, they started shooting from the corner of the hangar."
+3200,03-24-2022,Meh,True,Standard 6/8 wheel,4-Shoot + Taxi + Intake (2 Cargo max),,Upper Hub only,More accurate. Faster cycles,Mid,,False,No,
+3374,03-20-2022,NG,True,Unknown ,4-Shoot + Taxi + Intake (2 Cargo max),,Upper Hub only,,Mid,,False,,"Shoot close to the tarmac tape.
+Can easily get rid of a wrong color ball."
+3374,03-24-2022,Meh,True,Standard 6/8 wheel,5-More than 2 Cargo combination,4 ball auto,Upper Hub only,15-18 balls. Turret,Traversal ,20 sec. Upgraded to Traversal,True,Not really,
+3648,03-24-2022,NG,True,Standard 6/8 wheel,0-No movement ,Trying to move,Upper Hub only,Intake is slow. Targeting is extremely slow. Picked up 4 balls. Only shot 2.,Mid,The hang bar extends slowly. Got impatient and tried to hook the bar before it was extended.,False,,Average speed for moving around the field. Very tippy 
+3729,03-24-2022,MM JB,True,Standard 6/8 wheel,4-Shoot + Taxi + Intake (2 Cargo max),Shots were good.,Upper Hub only,10/14 on Upper. Includes 2 in autonomous.,Mid,Took a long time to get to Mid rung when they even started at 30 seconds left.,False,,
+4293,03-24-2022,CM NG,True,Unknown ,3-Shoot + Taxi only (1 Cargo),,Lower Hub only ,NG - Not all shots go in,Traversal ,,False,,Good amount of cargo successfully shot into lower hub
+4386,03-24-2022,MN-JB,True,Standard 6/8 wheel,1-Taxi only,No movement ,Upper Hub only,"Never shot in P14. Inexperienced drivers.  Robot is tips back-n-forth when driving.
+
+(MEH) Very few shots in match 19. Appear to be Upper capable",None,"Never tried.
+
+(MEH) Did not climb in PM19",False,,Robot has trouble with shooting. Intake not good and feeder to shoot.
+4386,03-25-2022,MH,True,Unknown ,1-Taxi only,,Upper Hub only,"Only shot 8, made 4-5",Mid,Did not climb,False,,Q2
+4388,03-24-2022,MN NG,True,Swerve ,0-No movement ,,Anywhere,NG - Not targeting either hub well,None,NG - Didn't try,False,,"Did not move a lot during the match. 
+NG - stalled for first 30sec, then were able to move around. But slow with moving, pickup, and shooting."
+4418,03-20-2022,NG,True,Unknown ,4-Shoot + Taxi + Intake (2 Cargo max),"Shoot low, then taxi to pick up another ball, then come back against the hub to shoot that ball. In some matches they didn't get points for the taxi. Not sure why. ",Lower Hub only ,Typically shoot from up against the hub.,None,"Trying to climb to the mid bar, but they get stuck.",False,,
+4418,03-24-2022,CM,False,Unknown ,Unknown ,Left tarmac,Lower Hub only ,Touching hub,Mid,,False,,
+4499,03-17-2022,JB,True,Swerve ,5-More than 2 Cargo combination,Opposite side of the hangar,Upper Hub only,Never say them shoot for the lower hub.,Mid,,False,,Intake is good.  Not great but good. They like to shoot from the tarmac nearest their launchpad and in the middle of the long wall.
+4499,03-24-2022,NG,True,Swerve ,5-More than 2 Cargo combination,"Shot 1, picked up and shot 2, tried to pick up the ball over by the terminal and missed. Got in position to shoot that ball.",Upper Hub only,Shooting from close to the tarmac tape to inside the tarmac .,Mid,Didn't complete mid bar climb,False,,"Fast intake. Take time to line up to shoot.
+
+Very reliable shooter. Smooth performance. (MM)
+NG - green lights mean they are shooting"
+4550,03-20-2022,NG,True,Unknown ,3-Shoot + Taxi only (1 Cargo),Changed their auto routine to shoot into the low hub partway through quals.,Upper Hub only,Did not pick up or shoot at all during teleop in AZ.,Traversal ,"Enter hangar at 30sec. Have to enter the hangar from the side, they are too tall to go under the low bar.",True,"Good at blocking. Never got penalties (except for that one time :). Not as mobile, so they have trouble blocking swerve robots. ",In the first couple qual matches their robot stopped working. Very bouncy and tippy when stopping.
+4550,03-24-2022,Meh NG,True,Standard 6/8 wheel,Unknown ,,Anywhere,High is new,Traversal ,"15 s
+NG - hard fall from the high bar.",True,Their preference,
+4550,03-24-2022,CM,False,Unknown ,Unknown ,"Made high shot, backed away from tarmac",Upper Hub only,"Missed some, made most. Shoots from close to hub but not right up against it",High,Mid to high. Fell attempting traverse,False,Didn't this match,
+4593,03-24-2022,Meh JB,True,Standard 6/8 wheel,4-Shoot + Taxi + Intake (2 Cargo max),(JB) Missed both,Upper Hub only,9/14 made. Was able to reject opponent's ball but took time.,High,10 s for Mid; 25 for High.  SWINGS alot on one arm!,False,Prefer not too,
+4944,03-24-2022,MN NG,True,Standard 6/8 wheel,4-Shoot + Taxi + Intake (2 Cargo max),,Lower Hub only ,NG - Intake is poor. Delivery of balls to lower hub is fast and usually doesn't miss. ,Mid,NG - They have the ability to climb higher.,False,,They shoot by lifting and then pushing the balls into the lower hub. (Quite slow)
+5493,03-24-2022,NG,True,Standard 6/8 wheel,0-No movement ,,Lower Hub only ,,Unknown ,,False,,Super slow
+5690,03-20-2022,NG,True,Unknown ,4-Shoot + Taxi + Intake (2 Cargo max),Looked like they were working on picking up a third ball from the terminal and shooting it during auto. ,Upper Hub only,,Mid,,True,Did well in finals when playing defense ,It takes them awhile to line up to shoot. They always shoot from just outside the tarmac tape. It looks like they have trouble moving around when they are near the power cord on the floor. They don't do well when they have defense against them. 
+5690,03-24-2022,NG,True,Unknown ,3-Shoot + Taxi only (1 Cargo),Drove around a lot in auto. Probably trying to pick up more balls,Upper Hub only,About half their shots went in,Low,Fast. Climbed in the last 5sec,False,,Tippy when stopping or changing direction.
+5690,03-24-2022,CM-JB,True,Standard 6/8 wheel,5-More than 2 Cargo combination,(JB) Goes back to Terminal to get balls,Upper Hub only,,Mid,(JB) PM20 they bumped us in transition from High to Traversal.  In PM24 they were having a hard time lining up when their partner was already on the Mid bar.,False,(CM) Didn't ,(CM) Low rung climb this match
+5763,03-24-2022,,True,Unknown ,Unknown ,,Unknown ,,Unknown ,,False,,
+662,03-24-2022,Meh NG,True,Standard 6/8 wheel,4-Shoot + Taxi + Intake (2 Cargo max),Claimed. Not tested,Lower Hub only ,Untested,Traversal ,"Untested. More than 1 minute
+NG-fell off going from mid to high bar",True,Sturdy. Top heavy. Intake not outside FP,
+662,03-25-2022,MH,True,Standard 6/8 wheel,3-Shoot + Taxi only (1 Cargo),Missed,Lower Hub only ,,Mid,,False,,Q5. Not good on Intake. Not Intake extension. Died mid match
+662,03-25-2022,,False,Unknown ,Unknown ,,Upper Hub only,,Mid,,False,,
+7243,03-24-2022,MN JB,True,Swerve ,0-No movement ,"(JB) Spun in place, no taxi in PM 25.",Upper Hub only,(JB) Limelight having problems.  Didn't see them make a shot in PM 25.,None,(JB) Wasn't able to line up PM 25.,False,,(MN) Stopped working during teleop. 
+7479,03-24-2022,NG,False,Standard 6/8 wheel,1-Taxi only,Didn't make it off the tarmac,Lower Hub only ,Pick up balls from the terminal in a box and dump it in the lower hub. Need to be up against the hub,Unknown ,Didn't try,False,,Slow
+7479,03-24-2022,,False,Unknown ,Unknown ,,Upper Hub only,,Mid,,False,,
+7485,03-24-2022,DD,False,Unknown ,Unknown ,,Nowhere,,Mid,,False,,No shooter or intake as of Q56
+7737,03-24-2022,,True,Unknown ,Unknown ,,Unknown ,,Unknown ,,False,,
+8250,03-24-2022,MM NG,True,Standard 6/8 wheel,4-Shoot + Taxi + Intake (2 Cargo max),"Left tarmac
+NG - neither shot went in. Second time got stuck with a ball in the intake on the field wall.",Upper Hub only,"Not very reliable shooter
+NG - not successful with any shots",Mid,NG - Slow to extend climber arms.,False,,
+8283,03-24-2022,,True,Unknown ,Unknown ,,Unknown ,,Unknown ,,False,,
+8334,03-24-2022,MM NG,True,Omni/Mecanum,3-Shoot + Taxi only (1 Cargo),"Drove backwards, didnt score ",Upper Hub only,Didnt do much. Only collected one ball at a time.,None,Doesnt seem to have a climber/ working climber,False,,"Average movement speed, doesnt do much during matches.
+NG - seemed to like driving and spinning around fast"
